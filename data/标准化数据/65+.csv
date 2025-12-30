@@ -1,0 +1,15 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+5,Prevalence,1,Global,3,Both,235,95+ years,975,Diabetes mellitus type 1,1,Number,2019,31895.818938217923,38680.991989484966,25555.78634398911
+5,Prevalence,1,Global,3,Both,235,95+ years,975,Diabetes mellitus type 1,3,Rate,2019,668.2259670239938,810.3771634673413,535.4005826233482
+5,Prevalence,1,Global,3,Both,18,65-69 years,975,Diabetes mellitus type 1,1,Number,2019,1218160.7204787033,1486541.5183319787,986030.7507139435
+5,Prevalence,1,Global,3,Both,18,65-69 years,975,Diabetes mellitus type 1,3,Rate,2019,471.08963125348106,574.8784080304326,381.31984963025707
+5,Prevalence,1,Global,3,Both,19,70-74 years,975,Diabetes mellitus type 1,1,Number,2019,941368.7506187279,1143943.5039226795,764839.4802854
+5,Prevalence,1,Global,3,Both,19,70-74 years,975,Diabetes mellitus type 1,3,Rate,2019,503.17129805945007,611.4495912437387,408.81458392301084
+5,Prevalence,1,Global,3,Both,20,75-79 years,975,Diabetes mellitus type 1,1,Number,2019,667776.4236746974,804647.0137806622,543217.0733451566
+5,Prevalence,1,Global,3,Both,20,75-79 years,975,Diabetes mellitus type 1,3,Rate,2019,525.5858394423387,633.3123800110359,427.54908884385446
+5,Prevalence,1,Global,3,Both,30,80-84 years,975,Diabetes mellitus type 1,1,Number,2019,464268.7813880738,561802.6136943675,378498.4141526483
+5,Prevalence,1,Global,3,Both,30,80-84 years,975,Diabetes mellitus type 1,3,Rate,2019,549.9360815028502,665.4669457408329,448.3392876682818
+5,Prevalence,1,Global,3,Both,31,85-89 years,975,Diabetes mellitus type 1,1,Number,2019,256695.5319605071,310989.2639643467,206665.81415531843
+5,Prevalence,1,Global,3,Both,31,85-89 years,975,Diabetes mellitus type 1,3,Rate,2019,590.3638610486901,715.2318593801181,475.30249965658106
+5,Prevalence,1,Global,3,Both,32,90-94 years,975,Diabetes mellitus type 1,1,Number,2019,108309.13731530843,131080.3904638084,86933.84628221561
+5,Prevalence,1,Global,3,Both,32,90-94 years,975,Diabetes mellitus type 1,3,Rate,2019,642.4950159949436,777.5751857619551,515.695760690909

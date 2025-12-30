@@ -1,0 +1,1225 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+3,YLDs (Years Lived with Disability),11,Indonesia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,192561.5939685448,278237.92219778505,123804.41010156208
+3,YLDs (Years Lived with Disability),11,Indonesia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,277.63229979775,401.15909220890006,178.49926557637
+3,YLDs (Years Lived with Disability),12,Lao People's Democratic Republic,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,5396.325696931511,7885.266433290693,3408.92025173424
+3,YLDs (Years Lived with Disability),12,Lao People's Democratic Republic,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,260.31898428948,380.38559272532,164.44645992363
+3,YLDs (Years Lived with Disability),33,Armenia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,2574.552496842048,3677.911225537513,1707.2733880259254
+3,YLDs (Years Lived with Disability),33,Armenia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,477.24383939060004,681.77303681565,316.47663335291
+3,YLDs (Years Lived with Disability),13,Malaysia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,21376.85753282128,30970.778459058347,13269.70475973264
+3,YLDs (Years Lived with Disability),13,Malaysia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,253.57046524932,367.37273899775,157.40410883500002
+3,YLDs (Years Lived with Disability),34,Azerbaijan,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,10183.848213436764,14606.839702194273,6779.073333229404
+3,YLDs (Years Lived with Disability),34,Azerbaijan,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,438.94333289171,629.58272428261,292.1910244969
+3,YLDs (Years Lived with Disability),15,Myanmar,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,33978.45636630869,48987.09958782555,22231.44734559133
+3,YLDs (Years Lived with Disability),15,Myanmar,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,220.41766287638998,317.77847368452,144.21501711106
+3,YLDs (Years Lived with Disability),14,Maldives,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,311.9729659883031,464.03170572385255,197.88569657077693
+3,YLDs (Years Lived with Disability),14,Maldives,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,238.03280087618,354.05236559165,150.98515494398
+3,YLDs (Years Lived with Disability),35,Georgia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,2537.859934678496,3576.6015109887885,1676.216375565261
+3,YLDs (Years Lived with Disability),35,Georgia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,401.29050301557,565.53799515053,265.04603477998
+3,YLDs (Years Lived with Disability),36,Kazakhstan,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,20541.044101296768,28944.96318864412,13796.11531702918
+3,YLDs (Years Lived with Disability),36,Kazakhstan,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,444.35873865439,626.15840117356,298.44755555627
+3,YLDs (Years Lived with Disability),16,Philippines,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,87946.78606703952,126779.23638687594,55346.75405313877
+3,YLDs (Years Lived with Disability),16,Philippines,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,262.48436346883,378.38298193987004,165.18690628023
+3,YLDs (Years Lived with Disability),37,Kyrgyzstan,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,8289.95060589889,11798.246676906614,5604.601421120695
+3,YLDs (Years Lived with Disability),37,Kyrgyzstan,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,438.78604177906004,624.47971108646,296.65084754219
+3,YLDs (Years Lived with Disability),17,Sri Lanka,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,13285.241991702953,19321.05619784277,8429.066705588495
+3,YLDs (Years Lived with Disability),17,Sri Lanka,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,250.13953938309,363.78412231719,158.70564228201
+3,YLDs (Years Lived with Disability),39,Tajikistan,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,12535.83350932851,17792.49580936711,8183.242770448869
+3,YLDs (Years Lived with Disability),39,Tajikistan,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,410.66984784379997,582.87640318108,268.0803841969
+3,YLDs (Years Lived with Disability),18,Thailand,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,26145.626210920407,38054.57851699199,16434.009830448078
+3,YLDs (Years Lived with Disability),18,Thailand,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,234.63523946218,341.50817696756,147.48156348538
+3,YLDs (Years Lived with Disability),38,Mongolia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,3477.9182591922736,4991.355261703606,2315.0596897898595
+3,YLDs (Years Lived with Disability),38,Mongolia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,423.20219150742,607.3611649043299,281.70251891345004
+3,YLDs (Years Lived with Disability),20,Viet Nam,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,55733.39516049867,79486.20270726847,36095.78466844901
+3,YLDs (Years Lived with Disability),20,Viet Nam,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,253.11017789749,360.98225937421,163.92703965854
+3,YLDs (Years Lived with Disability),19,Timor-Leste,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,1098.7395436474835,1577.7985757847669,685.7792513368901
+3,YLDs (Years Lived with Disability),19,Timor-Leste,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,241.74628661754,347.14955781076003,150.88615715031
+3,YLDs (Years Lived with Disability),23,Kiribati,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,111.5896335370728,162.2455661281372,69.22934914115854
+3,YLDs (Years Lived with Disability),23,Kiribati,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,297.47103038024,432.50752064463006,184.54873601437
+3,YLDs (Years Lived with Disability),22,Fiji,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,674.4056372711252,981.2708145985528,429.9795618595957
+3,YLDs (Years Lived with Disability),22,Fiji,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,273.50226413038,397.95009810969003,174.37633554524
+3,YLDs (Years Lived with Disability),26,Papua New Guinea,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,8965.861832565884,12955.659761754896,5652.4345747066745
+3,YLDs (Years Lived with Disability),26,Papua New Guinea,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,280.85158575203,405.83020980051003,177.05996850184
+3,YLDs (Years Lived with Disability),7,Democratic People's Republic of Korea,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,16600.531013072352,24098.187756618467,10824.995584361068
+3,YLDs (Years Lived with Disability),7,Democratic People's Republic of Korea,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,309.87281912103,449.8273802188,202.06413253029
+3,YLDs (Years Lived with Disability),24,Marshall Islands,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,34.934500687955435,50.30880453555076,22.288625096755663
+3,YLDs (Years Lived with Disability),24,Marshall Islands,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,269.05615816527,387.46492446333,171.66101479122
+3,YLDs (Years Lived with Disability),25,Micronesia (Federated States of),3,Both,159,10-24 years,630,Low back pain,1,Number,2023,92.30093959986677,131.09527660787953,57.15507482071168
+3,YLDs (Years Lived with Disability),25,Micronesia (Federated States of),3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,299.48657945108,425.36160675816,185.44965989003
+3,YLDs (Years Lived with Disability),28,Solomon Islands,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,815.9906196248783,1166.0028226659388,526.5024374402624
+3,YLDs (Years Lived with Disability),28,Solomon Islands,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,304.12291879554,434.57384585624,196.22953276216
+3,YLDs (Years Lived with Disability),8,Taiwan,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,12250.377554390412,16054.702320077036,8973.26069202405
+3,YLDs (Years Lived with Disability),8,Taiwan,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,370.08542222796,485.01454428565995,271.08331618555997
+3,YLDs (Years Lived with Disability),27,Samoa,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,177.6488418223058,254.14263667884055,116.41940605600408
+3,YLDs (Years Lived with Disability),27,Samoa,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,282.87524847804997,404.67846996325994,185.37789539152
+3,YLDs (Years Lived with Disability),29,Tonga,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,95.00931346430028,135.66007476181255,62.074435845075854
+3,YLDs (Years Lived with Disability),29,Tonga,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,286.78199753954,409.48477373405,187.36932263467
+3,YLDs (Years Lived with Disability),6,China,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,674785.5329277025,968743.897339905,426412.55047736433
+3,YLDs (Years Lived with Disability),6,China,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,281.06105531906,403.50032541291,177.60896698314
+3,YLDs (Years Lived with Disability),30,Vanuatu,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,309.4797347199692,440.24077524299753,202.7799482299401
+3,YLDs (Years Lived with Disability),30,Vanuatu,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,316.65738919777,450.45112447505005,207.48295214306
+3,YLDs (Years Lived with Disability),10,Cambodia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,12214.46930353954,17411.814823002354,7905.131036220634
+3,YLDs (Years Lived with Disability),10,Cambodia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,269.99384540316,384.87819017629,174.73839213518
+3,YLDs (Years Lived with Disability),53,Serbia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,12358.023953434724,17756.664121071335,8065.423353659713
+3,YLDs (Years Lived with Disability),53,Serbia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,775.47450891314,1114.24289523215,506.11086674722
+3,YLDs (Years Lived with Disability),40,Turkmenistan,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,6271.192728629528,8719.91600593583,4158.820126749368
+3,YLDs (Years Lived with Disability),40,Turkmenistan,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,431.1705435894,599.5304381523699,285.93615478517
+3,YLDs (Years Lived with Disability),41,Uzbekistan,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,36426.14835784196,52240.195465628254,24086.59244797578
+3,YLDs (Years Lived with Disability),41,Uzbekistan,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,446.10338870848,639.77470236689,294.98343903738
+3,YLDs (Years Lived with Disability),54,Slovakia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,6214.676522291573,8937.754795476225,4147.743412101612
+3,YLDs (Years Lived with Disability),54,Slovakia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,753.4256307903801,1083.55334673934,502.84454635895
+3,YLDs (Years Lived with Disability),55,Slovenia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,2102.7046342120543,2995.6784832845324,1386.6396905882616
+3,YLDs (Years Lived with Disability),55,Slovenia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,666.50718625824,949.558584854,439.53168861223
+3,YLDs (Years Lived with Disability),57,Belarus,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,8594.303675790663,12212.443746345258,5877.522404218647
+3,YLDs (Years Lived with Disability),57,Belarus,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,557.94534997388,792.8363317303999,381.57091237521
+3,YLDs (Years Lived with Disability),58,Estonia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,1183.5444286822774,1675.8045161932923,779.4557192727285
+3,YLDs (Years Lived with Disability),58,Estonia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,554.07416975606,784.52483361105,364.90077605155
+3,YLDs (Years Lived with Disability),75,Austria,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,7296.300916234602,10561.09061122781,4860.898131513304
+3,YLDs (Years Lived with Disability),75,Austria,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,532.34935675164,770.55344318014,354.65861718896997
+3,YLDs (Years Lived with Disability),59,Latvia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,1568.1945372013502,2239.832025995157,1040.91736600398
+3,YLDs (Years Lived with Disability),59,Latvia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,545.55179162108,779.2045857350499,362.11982664244
+3,YLDs (Years Lived with Disability),43,Albania,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,3469.325065053628,4958.327521697154,2312.568471752873
+3,YLDs (Years Lived with Disability),43,Albania,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,791.1141119613,1130.65302345201,527.33759984298
+3,YLDs (Years Lived with Disability),44,Bosnia and Herzegovina,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,3628.523316389884,5182.101560316886,2363.244063723843
+3,YLDs (Years Lived with Disability),44,Bosnia and Herzegovina,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,730.00414249717,1042.5606441014,475.44904795228996
+3,YLDs (Years Lived with Disability),45,Bulgaria,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,7091.549525661586,10159.813158968189,4704.5073068426
+3,YLDs (Years Lived with Disability),45,Bulgaria,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,726.53322523104,1040.87855487991,481.97941146641995
+3,YLDs (Years Lived with Disability),60,Lithuania,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,2337.536474140482,3317.530187413491,1600.2074643479175
+3,YLDs (Years Lived with Disability),60,Lithuania,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,558.40542149355,792.51248616404,382.26762811685
+3,YLDs (Years Lived with Disability),62,Russian Federation,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,138933.20585797625,198900.14386614691,91247.0895581786
+3,YLDs (Years Lived with Disability),62,Russian Federation,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,560.12778696522,801.89251174912,367.87483615318996
+3,YLDs (Years Lived with Disability),61,Republic of Moldova,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,2934.929028941454,4190.518342404503,1935.5620839370624
+3,YLDs (Years Lived with Disability),61,Republic of Moldova,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,549.29067995677,784.2822252164899,362.25278454784
+3,YLDs (Years Lived with Disability),76,Belgium,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,12878.251575994547,18354.68674499062,8498.889021214753
+3,YLDs (Years Lived with Disability),76,Belgium,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,639.47620895664,911.41141536263,422.01670774628
+3,YLDs (Years Lived with Disability),63,Ukraine,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,34531.36353870053,48678.203657824175,22809.54135231821
+3,YLDs (Years Lived with Disability),63,Ukraine,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,608.73818644736,858.12659500021,402.09935008633
+3,YLDs (Years Lived with Disability),48,Hungary,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,12505.58080210858,17501.28794538493,8196.004909707646
+3,YLDs (Years Lived with Disability),48,Hungary,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,850.94871414101,1190.88419071475,557.70139343174
+3,YLDs (Years Lived with Disability),47,Czechia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,13776.5754720424,19677.73599791651,9123.60327683182
+3,YLDs (Years Lived with Disability),47,Czechia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,803.32266756955,1147.4238576673001,532.00429504882
+3,YLDs (Years Lived with Disability),66,Brunei Darussalam,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,592.2455951945005,847.0822484113138,373.481261308088
+3,YLDs (Years Lived with Disability),66,Brunei Darussalam,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,572.03706277396,818.17821059527,360.73737897473
+3,YLDs (Years Lived with Disability),46,Croatia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,4193.414525507358,5982.348357178609,2854.438025360332
+3,YLDs (Years Lived with Disability),46,Croatia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,711.77787332197,1015.42625114759,484.50393226377
+3,YLDs (Years Lived with Disability),49,North Macedonia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,2176.4179123288945,3178.252377339234,1424.7765661480416
+3,YLDs (Years Lived with Disability),49,North Macedonia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,678.66997618757,991.07090280231,444.28649146046
+3,YLDs (Years Lived with Disability),67,Japan,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,125421.7333354128,180353.7695752922,81727.73722350466
+3,YLDs (Years Lived with Disability),67,Japan,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,742.43609750197,1067.60722637409,483.78873954498005
+3,YLDs (Years Lived with Disability),68,Republic of Korea,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,44480.30132469438,62987.05648948859,29308.360218582973
+3,YLDs (Years Lived with Disability),68,Republic of Korea,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,604.11476747808,855.4665740124101,398.05515455856994
+3,YLDs (Years Lived with Disability),77,Cyprus,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,1367.9640432823878,2004.6707398040085,890.3459335708028
+3,YLDs (Years Lived with Disability),77,Cyprus,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,622.46163264658,912.1808630460099,405.13212766976
+3,YLDs (Years Lived with Disability),78,Denmark,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,7974.677062434865,11383.024923714243,5258.159106282818
+3,YLDs (Years Lived with Disability),78,Denmark,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,761.51531530564,1086.98418080739,502.11045016607
+3,YLDs (Years Lived with Disability),50,Montenegro,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,923.1635295552376,1328.5349109951524,611.1768709620075
+3,YLDs (Years Lived with Disability),50,Montenegro,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,757.9471056600399,1090.77011636522,501.79597174424003
+3,YLDs (Years Lived with Disability),72,New Zealand,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,7168.558146740693,10350.047708825648,4640.197318698877
+3,YLDs (Years Lived with Disability),72,New Zealand,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,717.7939799060799,1036.3593047667,464.62700486746996
+3,YLDs (Years Lived with Disability),69,Singapore,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,3540.9313273400626,5007.701080030287,2280.623473460268
+3,YLDs (Years Lived with Disability),69,Singapore,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,484.93879535779,685.81633044152,312.33669835537
+3,YLDs (Years Lived with Disability),79,Finland,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,4905.678132621064,6700.094919285511,3378.908110426617
+3,YLDs (Years Lived with Disability),79,Finland,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,528.28596492851,721.52432627214,363.87012830126
+3,YLDs (Years Lived with Disability),51,Poland,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,43333.03823192488,62474.09283976152,28486.80303069263
+3,YLDs (Years Lived with Disability),51,Poland,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,712.65909035541,1027.45461639851,468.49655513032
+3,YLDs (Years Lived with Disability),98,Chile,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,22346.86958024346,32009.26670309178,14207.729416339298
+3,YLDs (Years Lived with Disability),98,Chile,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,564.08339026547,807.9832218538,358.63386360963
+3,YLDs (Years Lived with Disability),80,France,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,81153.40381969063,115612.95664332766,53549.33473409832
+3,YLDs (Years Lived with Disability),80,France,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,632.02391297181,900.3954216178801,417.04301338831
+3,YLDs (Years Lived with Disability),71,Australia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,34418.82890056777,49871.38541721189,22647.989862722687
+3,YLDs (Years Lived with Disability),71,Australia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,700.39941090719,1014.8482700631499,460.87096117966
+3,YLDs (Years Lived with Disability),52,Romania,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,24669.9885941364,35337.21266183374,16226.467682881448
+3,YLDs (Years Lived with Disability),52,Romania,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,770.37416932489,1103.48149318106,506.70682374162
+3,YLDs (Years Lived with Disability),81,Germany,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,88373.6676444498,124139.77221684308,57966.98655161832
+3,YLDs (Years Lived with Disability),81,Germany,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,715.73099876314,1005.3977109161,469.46981251021003
+3,YLDs (Years Lived with Disability),97,Argentina,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,62171.422642167,89293.63465944829,39442.24552630371
+3,YLDs (Years Lived with Disability),97,Argentina,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,555.18328678033,797.3813606312999,352.21448341827
+3,YLDs (Years Lived with Disability),99,Uruguay,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,4057.454738805429,5853.877863705064,2702.1584228433944
+3,YLDs (Years Lived with Disability),99,Uruguay,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,568.41898395236,820.08439321447,378.55213281889996
+3,YLDs (Years Lived with Disability),101,Canada,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,34347.02474767436,48452.54436870882,23408.592089633064
+3,YLDs (Years Lived with Disability),101,Canada,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,520.48930098757,734.24208165938,354.73004789625
+3,YLDs (Years Lived with Disability),82,Greece,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,9488.871097441686,13482.556921277335,6274.799981517942
+3,YLDs (Years Lived with Disability),82,Greece,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,590.25309285034,838.6794214604,390.32252183369
+3,YLDs (Years Lived with Disability),85,Israel,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,15399.460633319151,22048.43366076673,10294.218393318311
+3,YLDs (Years Lived with Disability),85,Israel,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,641.63788206241,918.67569999682,428.92154762131
+3,YLDs (Years Lived with Disability),74,Andorra,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,83.60126993170154,120.12152943125952,53.43432370451615
+3,YLDs (Years Lived with Disability),74,Andorra,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,614.8232553189999,883.40176912574,392.96849046215004
+3,YLDs (Years Lived with Disability),83,Iceland,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,483.9547812118588,695.5935067749167,318.3085945698449
+3,YLDs (Years Lived with Disability),83,Iceland,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,645.2413235797,927.41242035258,424.39059771812
+3,YLDs (Years Lived with Disability),84,Ireland,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,6618.055105428511,9535.337524302518,4303.138298978286
+3,YLDs (Years Lived with Disability),84,Ireland,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,620.56931269582,894.12036610656,403.50156263305
+3,YLDs (Years Lived with Disability),102,United States of America,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,394700.6537023673,525702.1876872092,281413.93915291794
+3,YLDs (Years Lived with Disability),102,United States of America,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,608.8229922329899,810.89194033234,434.07902896545
+3,YLDs (Years Lived with Disability),86,Italy,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,52544.32398434764,76052.66103252202,34036.950650833925
+3,YLDs (Years Lived with Disability),86,Italy,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,609.25296013591,881.8328098403201,394.65942970734
+3,YLDs (Years Lived with Disability),87,Luxembourg,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,684.3995942571354,986.2805611585952,445.27730838252273
+3,YLDs (Years Lived with Disability),87,Luxembourg,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,633.23013400433,912.54082724321,411.98593924094996
+3,YLDs (Years Lived with Disability),105,Antigua and Barbuda,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,66.79297370796506,95.50257490149914,43.15991786050747
+3,YLDs (Years Lived with Disability),105,Antigua and Barbuda,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,349.79922459144996,500.15330644049,226.0313467558
+3,YLDs (Years Lived with Disability),88,Malta,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,497.5952238473452,707.6337056363251,322.62030921836686
+3,YLDs (Years Lived with Disability),88,Malta,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,653.43812599017,929.2590047856601,423.66244722376
+3,YLDs (Years Lived with Disability),106,Bahamas,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,366.91287318774073,531.0454549605807,235.5411104550738
+3,YLDs (Years Lived with Disability),106,Bahamas,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,347.50563668324,502.95670285570003,223.08256137932
+3,YLDs (Years Lived with Disability),107,Barbados,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,199.7691052710105,286.6043722633541,125.40829358127864
+3,YLDs (Years Lived with Disability),107,Barbados,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,354.41612468449,508.47307343849,222.49046645162
+3,YLDs (Years Lived with Disability),108,Belize,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,429.8294344503465,609.8882819240043,277.3705793511032
+3,YLDs (Years Lived with Disability),108,Belize,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,352.63749158044,500.36004201762,227.55832314198
+3,YLDs (Years Lived with Disability),109,Cuba,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,7028.458381695989,10104.917851666112,4538.825018137599
+3,YLDs (Years Lived with Disability),109,Cuba,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,356.30085446287,512.25897192507,230.09131510709
+3,YLDs (Years Lived with Disability),117,Saint Vincent and the Grenadines,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,89.81978946976244,129.62555849612474,57.56553605620581
+3,YLDs (Years Lived with Disability),117,Saint Vincent and the Grenadines,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,339.94993503405,490.60680780537,217.87403820508
+3,YLDs (Years Lived with Disability),90,Norway,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,5539.652757970376,7938.537449903566,3589.1095404200314
+3,YLDs (Years Lived with Disability),90,Norway,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,561.45905732657,804.5926248286299,363.76613250834
+3,YLDs (Years Lived with Disability),89,Netherlands,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,17022.05865415987,24171.564312505503,11264.096043621632
+3,YLDs (Years Lived with Disability),89,Netherlands,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,542.9964572798,771.06265788796,359.31989017386996
+3,YLDs (Years Lived with Disability),91,Portugal,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,10627.36970261814,15300.585664957496,6987.262220454572
+3,YLDs (Years Lived with Disability),91,Portugal,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,667.74410577656,961.3739032893301,439.02708701988
+3,YLDs (Years Lived with Disability),92,Spain,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,37130.7802556734,52458.55305789842,24172.707737859542
+3,YLDs (Years Lived with Disability),92,Spain,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,494.35883748035,698.43265148304,321.83518939693
+3,YLDs (Years Lived with Disability),118,Suriname,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,502.0789275653707,726.1449419814464,323.18817943381146
+3,YLDs (Years Lived with Disability),118,Suriname,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,347.96497133021,503.25355247109,223.98503385965
+3,YLDs (Years Lived with Disability),119,Trinidad and Tobago,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,979.8237916432204,1416.9157346817228,617.4992644415111
+3,YLDs (Years Lived with Disability),119,Trinidad and Tobago,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,351.23815863285,507.92283044371004,221.35541762651002
+3,YLDs (Years Lived with Disability),121,Bolivia (Plurinational State of),3,Both,159,10-24 years,630,Low back pain,1,Number,2023,11518.968394048024,16654.505115728687,7526.473940742919
+3,YLDs (Years Lived with Disability),121,Bolivia (Plurinational State of),3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,356.10328135718004,514.86589060835,232.67726550345998
+3,YLDs (Years Lived with Disability),110,Dominica,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,58.10035964685724,83.65749366796994,37.42942191553086
+3,YLDs (Years Lived with Disability),110,Dominica,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,354.29746053751,510.14550928168,228.24556017661
+3,YLDs (Years Lived with Disability),111,Dominican Republic,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,10430.993805951117,14923.72782006052,6806.176577416187
+3,YLDs (Years Lived with Disability),111,Dominican Republic,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,359.3803207629,514.1690418694,234.49404410203
+3,YLDs (Years Lived with Disability),94,Switzerland,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,9366.786791948773,13425.238090338647,6404.092637351808
+3,YLDs (Years Lived with Disability),94,Switzerland,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,681.82856543424,977.2519681580501,466.16768298674
+3,YLDs (Years Lived with Disability),95,United Kingdom,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,74621.23257370054,107094.99042682332,48952.07712955082
+3,YLDs (Years Lived with Disability),95,United Kingdom,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,600.40270501829,861.68667721572,393.86858821741004
+3,YLDs (Years Lived with Disability),93,Sweden,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,8543.853569807807,12403.763675971584,5441.771387037861
+3,YLDs (Years Lived with Disability),93,Sweden,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,461.12033762237,669.44355346446,293.69785410673
+3,YLDs (Years Lived with Disability),113,Guyana,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,716.9644495676816,1013.5164079443356,458.2347583684723
+3,YLDs (Years Lived with Disability),113,Guyana,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,335.64678595956,474.47753518172,214.52252472779003
+3,YLDs (Years Lived with Disability),123,Peru,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,29108.92700046167,41585.72855634565,18505.83736398321
+3,YLDs (Years Lived with Disability),123,Peru,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,331.83549126449003,474.06833872193,210.96255567375
+3,YLDs (Years Lived with Disability),139,Algeria,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,54910.64773191666,78284.76527495656,36369.8258982488
+3,YLDs (Years Lived with Disability),139,Algeria,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,554.77861379173,790.93427876298,367.45517361560997
+3,YLDs (Years Lived with Disability),122,Ecuador,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,14989.809783231529,20927.255651530417,9964.516727653585
+3,YLDs (Years Lived with Disability),122,Ecuador,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,314.41060729128003,438.94827576119,209.00530433751
+3,YLDs (Years Lived with Disability),112,Grenada,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,90.9772644740959,131.97651971421746,60.29773633695198
+3,YLDs (Years Lived with Disability),112,Grenada,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,350.80069997217004,508.89038885995996,232.50301309909
+3,YLDs (Years Lived with Disability),140,Bahrain,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,1840.2637515572776,2636.3497197298057,1208.796933273556
+3,YLDs (Years Lived with Disability),140,Bahrain,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,562.86440572743,806.3558373247799,369.72350670734
+3,YLDs (Years Lived with Disability),141,Egypt,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,180984.3555034234,258905.47150519284,122413.04200180304
+3,YLDs (Years Lived with Disability),141,Egypt,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,569.44829164722,814.61891021825,385.15979709608996
+3,YLDs (Years Lived with Disability),125,Colombia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,66675.48904923191,94931.03489068408,44476.62986766308
+3,YLDs (Years Lived with Disability),125,Colombia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,543.77908806457,774.2202167241101,362.73391578372997
+3,YLDs (Years Lived with Disability),126,Costa Rica,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,5456.003912603601,7833.348265839865,3379.7242334741422
+3,YLDs (Years Lived with Disability),126,Costa Rica,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,458.52142241752995,658.3129423437,284.03131444458
+3,YLDs (Years Lived with Disability),142,Iran (Islamic Republic of),3,Both,159,10-24 years,630,Low back pain,1,Number,2023,115437.52572956358,165982.6654931163,76137.81068850575
+3,YLDs (Years Lived with Disability),142,Iran (Islamic Republic of),3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,613.6434087226,882.33152952943,404.73377602553006
+3,YLDs (Years Lived with Disability),143,Iraq,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,75724.12203516465,107943.29211112024,50150.99918090125
+3,YLDs (Years Lived with Disability),143,Iraq,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,553.62324676823,789.17938220081,366.65673036537004
+3,YLDs (Years Lived with Disability),127,El Salvador,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,7819.8300889646625,11267.635455436071,5027.524299470355
+3,YLDs (Years Lived with Disability),127,El Salvador,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,467.57239603641005,673.72759351867,300.61159335827
+3,YLDs (Years Lived with Disability),128,Guatemala,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,25831.06886678521,36801.21160789193,16643.5268110505
+3,YLDs (Years Lived with Disability),128,Guatemala,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,519.5431051278999,740.18678242999,334.75306981243
+3,YLDs (Years Lived with Disability),144,Jordan,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,22558.20739929199,31645.73207668919,14751.1963294666
+3,YLDs (Years Lived with Disability),144,Jordan,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,577.13837165257,809.6373066003099,377.40061871152
+3,YLDs (Years Lived with Disability),129,Honduras,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,15076.317466555907,21605.37877265133,9521.44164193386
+3,YLDs (Years Lived with Disability),129,Honduras,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,467.70536086457,670.25329613114,295.37911422801
+3,YLDs (Years Lived with Disability),114,Haiti,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,13312.7326162545,19108.53570466785,8600.96779444057
+3,YLDs (Years Lived with Disability),114,Haiti,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,338.73738695498,486.20937862389997,218.84833414407
+3,YLDs (Years Lived with Disability),145,Kuwait,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,5852.030362878499,8459.782503707087,3791.159892472523
+3,YLDs (Years Lived with Disability),145,Kuwait,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,579.15143377597,837.2299633874101,375.19553919734
+3,YLDs (Years Lived with Disability),115,Jamaica,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,2595.9714053634043,3861.32014825237,1606.7707326982495
+3,YLDs (Years Lived with Disability),115,Jamaica,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,369.61251111174005,549.77194018905,228.77084241624
+3,YLDs (Years Lived with Disability),116,Saint Lucia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,129.6656533450177,182.8261649222457,81.69401750187706
+3,YLDs (Years Lived with Disability),116,Saint Lucia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,362.4414918721,511.03577746496995,228.35115403784
+3,YLDs (Years Lived with Disability),131,Nicaragua,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,8798.770152475121,12589.477114634245,5651.828874316139
+3,YLDs (Years Lived with Disability),131,Nicaragua,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,464.21988138874,664.21618835648,298.18841544877
+3,YLDs (Years Lived with Disability),132,Panama,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,4727.567849832877,6825.313500712819,2979.859049708051
+3,YLDs (Years Lived with Disability),132,Panama,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,454.20803948956,655.75204048526,286.29434413532
+3,YLDs (Years Lived with Disability),146,Lebanon,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,6965.38051403924,9920.675790454046,4686.836751232998
+3,YLDs (Years Lived with Disability),146,Lebanon,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,546.9737850167099,779.04567827861,368.04548328842003
+3,YLDs (Years Lived with Disability),130,Mexico,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,138970.1176977897,199350.21982456607,88037.39103276483
+3,YLDs (Years Lived with Disability),130,Mexico,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,415.64965534761,596.24221045666,263.31352269592
+3,YLDs (Years Lived with Disability),147,Libya,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,10281.16651968516,14502.007649073874,6755.854605650515
+3,YLDs (Years Lived with Disability),147,Libya,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,566.53756050656,799.12449819998,372.27734616436
+3,YLDs (Years Lived with Disability),160,Afghanistan,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,66898.50824236435,94171.22683007162,44910.6817972924
+3,YLDs (Years Lived with Disability),160,Afghanistan,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,556.24866163573,783.01624752299,373.42397161365
+3,YLDs (Years Lived with Disability),133,Venezuela (Bolivarian Republic of),3,Both,159,10-24 years,630,Low back pain,1,Number,2023,24114.43489045503,33870.05270331228,15738.950891766392
+3,YLDs (Years Lived with Disability),133,Venezuela (Bolivarian Republic of),3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,416.32139543108,584.74634254642,271.72363887636
+3,YLDs (Years Lived with Disability),148,Morocco,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,60926.03458904445,87815.19278958034,40396.00335159775
+3,YLDs (Years Lived with Disability),148,Morocco,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,655.41160341052,944.67162844654,434.55986437706
+3,YLDs (Years Lived with Disability),161,Bangladesh,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,226441.4451749417,324307.534343113,147378.24822087586
+3,YLDs (Years Lived with Disability),161,Bangladesh,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,447.70120680347003,641.19390506759,291.38402439576
+3,YLDs (Years Lived with Disability),136,Paraguay,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,8306.560488741967,11910.292805604253,5280.930179002478
+3,YLDs (Years Lived with Disability),136,Paraguay,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,495.78631835560003,710.8790971462699,315.19820201022003
+3,YLDs (Years Lived with Disability),162,Bhutan,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,865.2456961049376,1263.5824611744897,551.385757745936
+3,YLDs (Years Lived with Disability),162,Bhutan,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,439.88894591697,642.40245219066,280.32326639747
+3,YLDs (Years Lived with Disability),164,Nepal,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,45968.39888272431,65155.82721586612,29444.90824494868
+3,YLDs (Years Lived with Disability),164,Nepal,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,522.11319150883,740.04572097156,334.43790497633
+3,YLDs (Years Lived with Disability),135,Brazil,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,277100.4432399613,402125.4526365507,181807.39367296093
+3,YLDs (Years Lived with Disability),135,Brazil,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,623.75332638476,905.18472570185,409.24859317763
+3,YLDs (Years Lived with Disability),149,Palestine,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,9484.0167445957,13621.366991167894,6278.641839201599
+3,YLDs (Years Lived with Disability),149,Palestine,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,555.9186285202,798.4350787460801,368.03118912748
+3,YLDs (Years Lived with Disability),163,India,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,1220509.3382792864,1740369.9945107028,780932.4403132874
+3,YLDs (Years Lived with Disability),163,India,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,307.90457765864,439.05267360353,197.01010526769
+3,YLDs (Years Lived with Disability),150,Oman,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,5447.368124242436,7824.601420578607,3614.4473388032375
+3,YLDs (Years Lived with Disability),150,Oman,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,537.00017917215,771.34723943146,356.31130929223997
+3,YLDs (Years Lived with Disability),165,Pakistan,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,262713.4211794734,392455.0903059752,163325.1465756988
+3,YLDs (Years Lived with Disability),165,Pakistan,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,346.37677043086,517.43579033395,215.33744468422
+3,YLDs (Years Lived with Disability),151,Qatar,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,2680.439880741821,3846.8808775727393,1778.0362582356236
+3,YLDs (Years Lived with Disability),151,Qatar,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,569.66937302322,817.57111337091,377.88305110627
+3,YLDs (Years Lived with Disability),152,Saudi Arabia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,42420.565186298045,62352.84461199613,28242.20264688431
+3,YLDs (Years Lived with Disability),152,Saudi Arabia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,562.8657369983899,827.34116536037,374.73730341601004
+3,YLDs (Years Lived with Disability),181,Madagascar,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,34584.36363224761,50225.23039228093,22919.676136269056
+3,YLDs (Years Lived with Disability),181,Madagascar,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,329.54859301994003,478.58778567910997,218.39774481602
+3,YLDs (Years Lived with Disability),182,Malawi,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,24553.309936969883,34841.21187160419,15405.702093996097
+3,YLDs (Years Lived with Disability),182,Malawi,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,326.50579253171,463.31258490631,204.86243950897
+3,YLDs (Years Lived with Disability),153,Syrian Arab Republic,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,34569.43422504378,48321.070445940924,22697.99576342081
+3,YLDs (Years Lived with Disability),153,Syrian Arab Republic,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,577.00916094838,806.5419911888799,378.85929533591
+3,YLDs (Years Lived with Disability),154,Tunisia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,14957.904077370238,21389.893850854685,9932.3251317554
+3,YLDs (Years Lived with Disability),154,Tunisia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,580.09647291324,829.54148620606,385.19479379973
+3,YLDs (Years Lived with Disability),183,Mauritius,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,676.4590971981744,1007.0283821154252,418.9543385799669
+3,YLDs (Years Lived with Disability),183,Mauritius,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,269.98274406815,401.91681519863005,167.20958064954
+3,YLDs (Years Lived with Disability),168,Angola,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,39268.32362817825,55411.44641416574,25730.07673719805
+3,YLDs (Years Lived with Disability),168,Angola,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,331.82436458666,468.23664211666,217.42375470187002
+3,YLDs (Years Lived with Disability),155,Türkiye,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,117564.14836191836,166417.8855752699,77450.767382197
+3,YLDs (Years Lived with Disability),155,Türkiye,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,606.03214351818,857.86857065018,399.25143190137
+3,YLDs (Years Lived with Disability),169,Central African Republic,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,7055.530374087936,10143.6341305052,4561.109061202184
+3,YLDs (Years Lived with Disability),169,Central African Republic,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,334.6574152029,481.13213307762004,216.34220079135997
+3,YLDs (Years Lived with Disability),184,Mozambique,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,38166.695613272925,54850.41845277078,24988.04800490772
+3,YLDs (Years Lived with Disability),184,Mozambique,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,337.88687265878,485.58661045278996,221.21730106731
+3,YLDs (Years Lived with Disability),156,United Arab Emirates,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,5764.508326458774,8226.290394821168,3773.411777567026
+3,YLDs (Years Lived with Disability),156,United Arab Emirates,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,524.63097479609,748.6790727635199,343.42021679205
+3,YLDs (Years Lived with Disability),185,Rwanda,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,15521.917133403073,22465.303599447765,10157.743756099266
+3,YLDs (Years Lived with Disability),185,Rwanda,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,346.56286110828,501.59009510083,226.79522820946
+3,YLDs (Years Lived with Disability),170,Congo,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,6319.146669202435,8958.338075291926,4289.070441476233
+3,YLDs (Years Lived with Disability),170,Congo,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,324.75204529277,460.38472671538005,220.42286264104
+3,YLDs (Years Lived with Disability),171,Democratic Republic of the Congo,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,104857.9220857435,149388.98697214178,68509.72845902256
+3,YLDs (Years Lived with Disability),171,Democratic Republic of the Congo,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,336.53558566352,479.45552631912005,219.87810870172
+3,YLDs (Years Lived with Disability),186,Seychelles,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,51.62031314521646,74.18505956018919,31.94808706144477
+3,YLDs (Years Lived with Disability),186,Seychelles,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,235.15782311299,337.95217523391,145.54043066067
+3,YLDs (Years Lived with Disability),172,Equatorial Guinea,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,1936.654161901802,2736.249784853596,1292.2890937728523
+3,YLDs (Years Lived with Disability),172,Equatorial Guinea,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,327.07928698543,462.12206921089,218.25321406647
+3,YLDs (Years Lived with Disability),157,Yemen,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,63790.56316581083,89788.13114020323,43129.832627164295
+3,YLDs (Years Lived with Disability),157,Yemen,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,549.94021764611,774.06597356623,371.82348555805
+3,YLDs (Years Lived with Disability),187,Somalia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,22641.24362376189,32054.259267057598,15270.254002531436
+3,YLDs (Years Lived with Disability),187,Somalia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,320.5646807544,453.83829437616,216.20296926723
+3,YLDs (Years Lived with Disability),176,Comoros,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,864.7618235121396,1226.7966364687777,551.4861745886219
+3,YLDs (Years Lived with Disability),176,Comoros,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,306.64038390691,435.01618752624995,195.5543453669
+3,YLDs (Years Lived with Disability),189,United Republic of Tanzania,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,67482.99639666778,94280.34885024487,44789.777899339606
+3,YLDs (Years Lived with Disability),189,United Republic of Tanzania,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,316.21270247905,441.78008524346,209.87652400221
+3,YLDs (Years Lived with Disability),173,Gabon,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,1801.3288827035467,2569.39686677779,1187.5552669102397
+3,YLDs (Years Lived with Disability),173,Gabon,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,320.52964381881,457.20016508112,211.31436373050997
+3,YLDs (Years Lived with Disability),175,Burundi,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,15515.38999673154,22344.351332447,10084.519627270633
+3,YLDs (Years Lived with Disability),175,Burundi,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,327.88390082199,472.19909249869,213.11430998524
+3,YLDs (Years Lived with Disability),204,Chad,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,20867.358305744376,30219.91354859032,13500.381477815445
+3,YLDs (Years Lived with Disability),204,Chad,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,327.46583341702,474.23296379856004,211.85785029931003
+3,YLDs (Years Lived with Disability),177,Djibouti,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,1141.5029988826414,1630.156815525657,713.8944775736475
+3,YLDs (Years Lived with Disability),177,Djibouti,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,287.97551974136,411.25188165991,180.09951215283
+3,YLDs (Years Lived with Disability),190,Uganda,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,51788.07278057718,73285.33845488387,33403.62831214114
+3,YLDs (Years Lived with Disability),190,Uganda,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,325.0963053152,460.04401180173,209.68913429951
+3,YLDs (Years Lived with Disability),191,Zambia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,21292.04792242665,30411.102045101343,14042.427146947202
+3,YLDs (Years Lived with Disability),191,Zambia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,291.32907978116,416.10080938238997,192.13592762513
+3,YLDs (Years Lived with Disability),205,Côte d'Ivoire,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,34690.540408132234,49663.75918180225,22264.13578175239
+3,YLDs (Years Lived with Disability),205,Côte d'Ivoire,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,312.93457332313,448.00418518521997,200.83912643914
+3,YLDs (Years Lived with Disability),206,Gambia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,2385.3195411956594,3434.720273101253,1538.736163969917
+3,YLDs (Years Lived with Disability),206,Gambia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,277.16354277951,399.09924976851005,178.7943121428
+3,YLDs (Years Lived with Disability),179,Ethiopia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,121019.5979143142,169912.67075623205,77559.91819764188
+3,YLDs (Years Lived with Disability),179,Ethiopia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,315.46665955814,442.91820154636,202.17856224193
+3,YLDs (Years Lived with Disability),193,Botswana,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,1715.7277253543389,2476.5081655862214,1109.1000024330376
+3,YLDs (Years Lived with Disability),193,Botswana,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,263.5203627902,380.36940279286,170.34779510333
+3,YLDs (Years Lived with Disability),178,Eritrea,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,6230.563279915736,8748.308622857881,4139.007717160194
+3,YLDs (Years Lived with Disability),178,Eritrea,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,286.63719319022,402.46612002177,190.41513605420002
+3,YLDs (Years Lived with Disability),207,Ghana,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,29037.44817676409,41618.23168907463,19353.597565951983
+3,YLDs (Years Lived with Disability),207,Ghana,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,281.6740689097,403.71235755038003,187.73710903442
+3,YLDs (Years Lived with Disability),195,Namibia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,2480.4590268918573,3530.4158025231072,1600.11483216517
+3,YLDs (Years Lived with Disability),195,Namibia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,274.55646857817,390.77383856967003,177.1131362687
+3,YLDs (Years Lived with Disability),194,Lesotho,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,1571.159733163861,2244.9632589659723,991.9920023188422
+3,YLDs (Years Lived with Disability),194,Lesotho,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,259.46038678627,370.73190153577997,163.81697110595
+3,YLDs (Years Lived with Disability),180,Kenya,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,61872.03890664872,88787.35557900093,39854.90638997057
+3,YLDs (Years Lived with Disability),180,Kenya,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,347.01735552081,497.97540021589003,223.53141199765997
+3,YLDs (Years Lived with Disability),208,Guinea,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,13742.313257764685,19250.00668825223,9114.49750449383
+3,YLDs (Years Lived with Disability),208,Guinea,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,299.42421084555,419.42851638495,198.59110845074002
+3,YLDs (Years Lived with Disability),196,South Africa,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,43036.568795037805,62082.48973445818,27548.25305466007
+3,YLDs (Years Lived with Disability),196,South Africa,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,263.13297135959004,379.58300233063,168.43474944671
+3,YLDs (Years Lived with Disability),209,Guinea-Bissau,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,2030.2961284071748,2943.164391036887,1350.1040053863069
+3,YLDs (Years Lived with Disability),209,Guinea-Bissau,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,284.46887569152,412.37268474250004,189.16578872667
+3,YLDs (Years Lived with Disability),210,Liberia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,5451.415761531715,7851.037128276928,3518.5807023008865
+3,YLDs (Years Lived with Disability),210,Liberia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,296.23458682398,426.63206065599996,191.2026794779
+3,YLDs (Years Lived with Disability),198,Zimbabwe,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,15224.530574239472,21807.667967269463,9938.076549700736
+3,YLDs (Years Lived with Disability),198,Zimbabwe,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,299.50463069846,429.01142397017,195.50684550547
+3,YLDs (Years Lived with Disability),211,Mali,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,20190.26837625,28638.363802809337,12846.686357109793
+3,YLDs (Years Lived with Disability),211,Mali,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,263.02714764654996,373.08405237336,167.35920524935
+3,YLDs (Years Lived with Disability),212,Mauritania,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,4034.736132745007,5715.419469150658,2627.7139952570788
+3,YLDs (Years Lived with Disability),212,Mauritania,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,265.68427876985004,376.35598700116003,173.03295052615
+3,YLDs (Years Lived with Disability),197,Eswatini,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,843.0830576746465,1209.0240030928526,556.0659667523718
+3,YLDs (Years Lived with Disability),197,Eswatini,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,231.84685670541,332.48018952202,152.91749174509002
+3,YLDs (Years Lived with Disability),213,Niger,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,26589.23202329702,36789.95344404367,17567.63597020354
+3,YLDs (Years Lived with Disability),213,Niger,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,299.25958906940997,414.06785799231,197.72227782877002
+3,YLDs (Years Lived with Disability),201,Burkina Faso,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,22710.192482943305,32584.74607322492,14579.2205651217
+3,YLDs (Years Lived with Disability),201,Burkina Faso,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,296.24784090894997,425.05851405748,190.18168242284
+3,YLDs (Years Lived with Disability),200,Benin,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,13675.820750129364,19515.065047108703,8807.451310557697
+3,YLDs (Years Lived with Disability),200,Benin,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,294.46876527943,420.19979742096996,189.64268105474
+3,YLDs (Years Lived with Disability),215,Sao Tome and Principe,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,190.1425276349053,273.94222004552296,120.84755982250331
+3,YLDs (Years Lived with Disability),215,Sao Tome and Principe,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,257.45772680625,370.92460127911,163.63061135763
+3,YLDs (Years Lived with Disability),298,American Samoa,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,38.50887134283475,54.85202270791312,24.6158902704757
+3,YLDs (Years Lived with Disability),298,American Samoa,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,281.62030069679,401.13985661396,180.01915346139
+3,YLDs (Years Lived with Disability),305,Bermuda,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,32.13107481434003,46.377073114574046,20.700489350127786
+3,YLDs (Years Lived with Disability),305,Bermuda,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,357.10424742279,515.43404283696,230.06490487401
+3,YLDs (Years Lived with Disability),214,Nigeria,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,237045.861301397,341211.3664810552,153506.04638078564
+3,YLDs (Years Lived with Disability),214,Nigeria,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,285.10682368653,410.39184725297997,184.62934159671
+3,YLDs (Years Lived with Disability),202,Cameroon,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,33904.81320597258,48196.962072663846,22327.93814535401
+3,YLDs (Years Lived with Disability),202,Cameroon,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,304.97462394132003,433.53285251651,200.84034965469002
+3,YLDs (Years Lived with Disability),396,San Marino,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,32.002685409942494,46.11600886087375,21.35971713494373
+3,YLDs (Years Lived with Disability),396,San Marino,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,605.03013711398,871.85105896069,403.81838028055
+3,YLDs (Years Lived with Disability),203,Cabo Verde,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,365.10155883852127,527.4561326579251,232.7610796960892
+3,YLDs (Years Lived with Disability),203,Cabo Verde,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,278.07415601621,401.72909529893,177.27900421959
+3,YLDs (Years Lived with Disability),413,Tokelau,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,1.2460357561469977,1.8285786308568728,0.7827362760685876
+3,YLDs (Years Lived with Disability),413,Tokelau,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,278.6812127952,408.96941201297,175.06230751203
+3,YLDs (Years Lived with Disability),320,Cook Islands,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,9.65441030599864,14.010776317647242,6.0647565682035225
+3,YLDs (Years Lived with Disability),320,Cook Islands,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,283.20748974903,410.99939453481005,177.90672129945
+3,YLDs (Years Lived with Disability),217,Sierra Leone,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,7610.668604006879,11123.487750229124,4934.943038514607
+3,YLDs (Years Lived with Disability),217,Sierra Leone,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,296.53923380231,433.41140000837004,192.28326756058001
+3,YLDs (Years Lived with Disability),216,Senegal,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,16573.677709681324,23406.65889355893,10526.80816579498
+3,YLDs (Years Lived with Disability),216,Senegal,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,262.44993746985,370.65256550779,166.69566002579
+3,YLDs (Years Lived with Disability),416,Tuvalu,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,8.479686345768489,12.243795308992338,5.398735027403818
+3,YLDs (Years Lived with Disability),416,Tuvalu,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,288.41270697279,416.43829791528,183.62280395658
+3,YLDs (Years Lived with Disability),218,Togo,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,7681.461874992232,10966.78089503872,4915.455333962089
+3,YLDs (Years Lived with Disability),218,Togo,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,286.7235306529,409.35360863527,183.47766753989998
+3,YLDs (Years Lived with Disability),349,Greenland,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,54.671419106800805,77.73011943720088,35.68217970622003
+3,YLDs (Years Lived with Disability),349,Greenland,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,500.59816483062997,711.7348658229399,326.72343191232
+3,YLDs (Years Lived with Disability),351,Guam,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,101.117176014447,146.98839867588217,64.41167741883281
+3,YLDs (Years Lived with Disability),351,Guam,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,289.36490305581003,420.63361942682,184.32554711871
+3,YLDs (Years Lived with Disability),422,United States Virgin Islands,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,45.28896169253158,64.1339925346405,29.184208136833767
+3,YLDs (Years Lived with Disability),422,United States Virgin Islands,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,345.29392639740996,488.97296979718,222.50741548858
+3,YLDs (Years Lived with Disability),435,South Sudan,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,11286.335022964662,16135.420053718344,7241.734011470413
+3,YLDs (Years Lived with Disability),435,South Sudan,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,314.9848937735,450.31567477573,202.10607018998
+3,YLDs (Years Lived with Disability),367,Monaco,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,32.384094670767446,45.481725675690456,21.45587063554595
+3,YLDs (Years Lived with Disability),367,Monaco,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,605.94054122794,851.0110210610799,401.46195215872
+3,YLDs (Years Lived with Disability),369,Nauru,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,11.088259123751326,16.006874492141716,7.009015067282746
+3,YLDs (Years Lived with Disability),369,Nauru,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,292.80654339637,422.69192470295,185.08635589765998
+3,YLDs (Years Lived with Disability),522,Sudan,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,67285.51198168576,95922.17260581355,44826.41831109296
+3,YLDs (Years Lived with Disability),522,Sudan,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,575.88788044569,820.9853063872599,383.66344059585003
+3,YLDs (Years Lived with Disability),374,Niue,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,1.0973918880844515,1.6000277811317587,0.7120099080648532
+3,YLDs (Years Lived with Disability),374,Niue,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,288.64636666831,420.85440088153996,187.27956277634001
+3,YLDs (Years Lived with Disability),376,Northern Mariana Islands,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,33.43361319571572,48.28469443107865,21.23101087718045
+3,YLDs (Years Lived with Disability),376,Northern Mariana Islands,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,288.82683390964996,417.12259267898,183.41079728538
+3,YLDs (Years Lived with Disability),385,Puerto Rico,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,1979.652183553845,2862.6575335139974,1269.5277497733268
+3,YLDs (Years Lived with Disability),385,Puerto Rico,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,347.78362132922,502.90925441439,223.02956138562
+3,YLDs (Years Lived with Disability),380,Palau,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,10.050408414694855,14.607161495370448,6.40937603974823
+3,YLDs (Years Lived with Disability),380,Palau,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,291.76385532172003,424.04662351482006,186.06450468513998
+3,YLDs (Years Lived with Disability),393,Saint Kitts and Nevis,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,34.338427670082126,49.27568576496515,22.08950252915073
+3,YLDs (Years Lived with Disability),393,Saint Kitts and Nevis,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,351.0801696703,503.80047348693006,225.84570180024002
+5,Prevalence,39,Tajikistan,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,112946.8191251828,140244.29093243106,90099.61212964916
+5,Prevalence,39,Tajikistan,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3700.10123300252,4594.35757305851,2951.6341276018597
+5,Prevalence,37,Kyrgyzstan,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,74553.85708709605,93682.63621849925,58786.76524801484
+5,Prevalence,37,Kyrgyzstan,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3946.1262685125002,4958.61013942505,3111.5760827111
+5,Prevalence,38,Mongolia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,31375.51737821892,39649.28774669634,24990.674953984868
+5,Prevalence,38,Mongolia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3817.8550283770105,4824.629049794639,3040.93070037599
+5,Prevalence,35,Georgia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,22831.13410007856,28471.12733377313,18153.24322516684
+5,Prevalence,35,Georgia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3610.0957197218895,4501.90053953375,2870.4200754538797
+5,Prevalence,34,Azerbaijan,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,92106.13152985436,114672.09576943218,74158.71739694485
+5,Prevalence,34,Azerbaijan,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3969.95040638308,4942.5866187106,3196.3825358513
+5,Prevalence,36,Kazakhstan,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,185151.8316230153,229423.61786119756,145706.07961947477
+5,Prevalence,36,Kazakhstan,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,4005.3384800609797,4963.057814762839,3152.01941219233
+5,Prevalence,26,Papua New Guinea,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,81060.00122920018,101892.61574851444,62503.01418617238
+5,Prevalence,26,Papua New Guinea,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2539.16804780463,3191.74031942481,1957.8787824621702
+5,Prevalence,33,Armenia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,23236.30531563387,29274.247314216325,19008.97585506914
+5,Prevalence,33,Armenia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,4307.30527953412,5426.55634353683,3523.68678870763
+5,Prevalence,28,Solomon Islands,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,7331.170471683464,9375.779724780155,5756.351496237725
+5,Prevalence,28,Solomon Islands,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2732.35611833507,3494.3900423696205,2145.41488167313
+5,Prevalence,22,Fiji,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,6110.425362443637,7847.147523965721,4777.571610535657
+5,Prevalence,22,Fiji,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2478.05634927725,3182.37644550852,1937.5233247068102
+5,Prevalence,24,Marshall Islands,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,314.78926243272275,412.5511169825151,246.58943197322
+5,Prevalence,24,Marshall Islands,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2424.42250250993,3177.35809575709,1899.16569306358
+5,Prevalence,27,Samoa,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,1596.984462012413,2068.563890291992,1265.3572420664425
+5,Prevalence,27,Samoa,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2542.92328547361,3293.83247566782,2014.86393376594
+5,Prevalence,29,Tonga,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,855.5153981622881,1081.4437624670654,664.5667223471178
+5,Prevalence,29,Tonga,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2582.3406765591703,3264.2968475245802,2005.96936430479
+5,Prevalence,20,Viet Nam,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,499897.30065579055,630619.8411989796,391008.7143520627
+5,Prevalence,20,Viet Nam,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2270.2563577024102,2863.92565412362,1775.74477499738
+5,Prevalence,30,Vanuatu,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,2787.911925823977,3586.905444993648,2186.4097663143293
+5,Prevalence,30,Vanuatu,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2852.57098511979,3670.09527954617,2237.11839789467
+5,Prevalence,8,Taiwan,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,109189.22320920606,114184.49648250268,102272.07449991454
+5,Prevalence,8,Taiwan,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3298.6199482186903,3449.52777210282,3089.65202952999
+5,Prevalence,25,Micronesia (Federated States of),3,Both,159,10-24 years,630,Low back pain,1,Number,2023,829.9277677156555,1069.850096246243,643.9249793917917
+5,Prevalence,25,Micronesia (Federated States of),3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2692.84613376781,3471.3161885370996,2089.32747962446
+5,Prevalence,6,China,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,6049133.169235212,7687727.630550137,4717137.73435315
+5,Prevalence,6,China,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2519.57943575671,3202.0853077172,1964.7779109169198
+5,Prevalence,23,Kiribati,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,1008.7227203412604,1329.9282809692986,787.4618819865491
+5,Prevalence,23,Kiribati,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2689.01131293872,3545.26781325371,2099.1833201233703
+5,Prevalence,19,Timor-Leste,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,9849.248044352626,12839.25532079107,7555.678483851361
+5,Prevalence,19,Timor-Leste,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2167.0460069118,2824.91179523037,1662.4114667644901
+5,Prevalence,15,Myanmar,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,306549.7581763124,397425.0560846273,235349.8223909253
+5,Prevalence,15,Myanmar,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1988.5830163710798,2578.08951314085,1526.71025577312
+5,Prevalence,18,Thailand,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,233012.0230779591,309609.89991512307,181078.9005229617
+5,Prevalence,18,Thailand,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2091.08901777341,2778.49122527823,1625.03245640403
+5,Prevalence,14,Maldives,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,2782.785971375854,3669.669108934757,2167.9606556506965
+5,Prevalence,14,Maldives,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2123.24275248383,2799.9272742155,1654.13610573313
+5,Prevalence,7,Democratic People's Republic of Korea,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,148514.3648782995,190593.0964537301,116382.90075299784
+5,Prevalence,7,Democratic People's Republic of Korea,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2772.23450795453,3557.69463378112,2172.4544549457996
+5,Prevalence,10,Cambodia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,109920.06998750517,142132.11256968306,86288.28204500659
+5,Prevalence,10,Cambodia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2429.72016592739,3141.7489106009098,1907.35303381643
+5,Prevalence,12,Lao People's Democratic Republic,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,48413.79733277881,63186.57135863703,37656.789879843614
+5,Prevalence,12,Lao People's Democratic Republic,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2335.48367075627,3048.12292671078,1816.56516742449
+5,Prevalence,16,Philippines,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,788567.4549827882,1004899.690571751,618018.6516409288
+5,Prevalence,16,Philippines,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2353.54395231244,2999.20517196263,1844.5271242110098
+5,Prevalence,11,Indonesia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,1725566.2551285792,2208308.4232974104,1339117.2102227232
+5,Prevalence,11,Indonesia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2487.89448607811,3183.9046072861997,1930.71828660509
+5,Prevalence,17,Sri Lanka,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,119381.52458232516,156043.62688982455,92288.04757019728
+5,Prevalence,17,Sri Lanka,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2247.7603033895703,2938.04817242056,1737.6341149217499
+5,Prevalence,13,Malaysia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,191254.5458266244,247988.82906832665,148394.2779588441
+5,Prevalence,13,Malaysia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2268.6451501043402,2941.62239080015,1760.24029933254
+5,Prevalence,40,Turkmenistan,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,56322.99704259648,70682.33918718777,44641.44828321039
+5,Prevalence,40,Turkmenistan,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3872.43994919408,4859.70435422579,3069.28495994354
+5,Prevalence,41,Uzbekistan,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,326938.8321098793,415825.2319050066,259395.9419376205
+5,Prevalence,41,Uzbekistan,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,4003.95121306351,5092.524283407561,3176.7676225007904
+5,Prevalence,67,Japan,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,1127997.0546218497,1424401.9746274578,891094.4961015653
+5,Prevalence,67,Japan,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,6677.19787437123,8431.77187233092,5274.84912381084
+5,Prevalence,43,Albania,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,31191.492514380472,39721.02489065976,24110.291351667125
+5,Prevalence,43,Albania,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,7112.631257826631,9057.63015668337,5497.89696097781
+5,Prevalence,71,Australia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,314975.32794882206,400866.96340789663,248851.69135515369
+5,Prevalence,71,Australia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,6409.53051549107,8157.366011323371,5063.96015192525
+5,Prevalence,74,Andorra,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,759.8655143706711,971.0484146086352,590.8454879055674
+5,Prevalence,74,Andorra,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,5588.22837896711,7141.3167267647805,4345.21564757828
+5,Prevalence,72,New Zealand,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,65353.83247915098,81913.77852641398,51916.64813035526
+5,Prevalence,72,New Zealand,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,6543.936250088769,8202.09809197875,5198.45926085081
+5,Prevalence,66,Brunei Darussalam,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,5318.606373930923,6716.0533713803325,4148.487259235973
+5,Prevalence,66,Brunei Darussalam,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,5137.125531841471,6486.889012211,4006.9330797626203
+5,Prevalence,44,Bosnia and Herzegovina,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,32735.498960911653,41160.17198214393,26003.015491557067
+5,Prevalence,44,Bosnia and Herzegovina,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,6585.888463286329,8280.8055599753,5231.4143719327
+5,Prevalence,69,Singapore,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,31739.54248633927,40088.07689533856,25490.289243412462
+5,Prevalence,69,Singapore,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,4346.80429402594,5490.15553273648,3490.9545021613803
+5,Prevalence,75,Austria,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,65894.44815937417,83747.80770069348,52138.191485175164
+5,Prevalence,75,Austria,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,4807.76046573075,6110.36908574118,3804.0827835882596
+5,Prevalence,61,Republic of Moldova,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,26351.28826709676,33197.369636504714,21066.458884485583
+5,Prevalence,61,Republic of Moldova,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,4931.811606766881,6213.09938352712,3942.72209339046
+5,Prevalence,46,Croatia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,37769.87215612496,47368.42997641192,30299.341359124035
+5,Prevalence,46,Croatia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,6410.947240107839,8040.17827146057,5142.92126964113
+5,Prevalence,63,Ukraine,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,313389.0067958483,395024.508168483,252766.7160440312
+5,Prevalence,63,Ukraine,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,5524.59665937146,6963.71292825569,4455.91301792801
+5,Prevalence,57,Belarus,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,77277.19288389599,97164.26902598963,61646.805800269896
+5,Prevalence,57,Belarus,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,5016.863733831,6307.94001838374,4002.13326576912
+5,Prevalence,76,Belgium,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,117008.55441989828,146691.88891677797,90532.54744620503
+5,Prevalence,76,Belgium,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,5810.1199805265405,7284.06122955751,4495.4402301009095
+5,Prevalence,68,Republic of Korea,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,398488.6617473552,510762.8674241521,312339.5211214786
+5,Prevalence,68,Republic of Korea,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,5412.12352580232,6936.9896718544505,4242.07821343515
+5,Prevalence,102,United States of America,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,3599537.0895015537,4144232.039848582,3138384.545034993
+5,Prevalence,102,United States of America,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,5552.2607346288205,6392.4488782606895,4840.93616659376
+5,Prevalence,98,Chile,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,202176.3259574549,258122.7869170343,159143.462409713
+5,Prevalence,98,Chile,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,5103.36836969436,6515.578221195679,4017.12568699207
+5,Prevalence,77,Cyprus,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,12417.948894513063,16037.312134036412,10020.898001651582
+5,Prevalence,77,Cyprus,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,5650.51163512552,7297.4224309743195,4559.78690472446
+5,Prevalence,45,Bulgaria,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,63848.032069842186,79829.32464824674,50495.60027733133
+5,Prevalence,45,Bulgaria,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,6541.26668600403,8178.55907158687,5173.30256197354
+5,Prevalence,60,Lithuania,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,21051.59896189972,26306.25893861374,17043.688768753997
+5,Prevalence,60,Lithuania,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,5028.938423626219,6284.20466291826,4071.50361759404
+5,Prevalence,48,Hungary,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,112551.88570228504,140563.285302183,88710.79844770835
+5,Prevalence,48,Hungary,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,7658.651279623679,9564.70145418289,6036.3721656791995
+5,Prevalence,51,Poland,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,389510.61610570416,487616.5939233206,307317.9479903568
+5,Prevalence,51,Poland,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,6405.9270405176,8019.38687999919,5054.17894061597
+5,Prevalence,54,Slovakia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,56107.60605152036,70390.37602089127,44853.47491399052
+5,Prevalence,54,Slovakia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,6802.10922159432,8533.65629970986,5437.73396877511
+5,Prevalence,47,Czechia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,124358.22147055526,153790.6566749194,98121.59714579712
+5,Prevalence,47,Czechia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,7251.42314275881,8967.65098250167,5721.545483150539
+5,Prevalence,62,Russian Federation,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,1250431.6469311777,1582026.726287949,1000748.4415159428
+5,Prevalence,62,Russian Federation,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,5041.28229692496,6378.152174947751,4034.65108570404
+5,Prevalence,58,Estonia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,10661.754577138236,13498.676331145803,8629.83143007796
+5,Prevalence,58,Estonia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,4991.28099656376,6319.38075135262,4040.0398741928702
+5,Prevalence,55,Slovenia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,18948.14675361934,24127.24992402576,14881.58218214079
+5,Prevalence,55,Slovenia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,6006.11030768745,7647.76240912122,4717.10639045905
+5,Prevalence,49,North Macedonia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,19588.81162804277,24968.70827379967,15626.770934033311
+5,Prevalence,49,North Macedonia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,6108.35733607846,7785.96452162146,4872.87859450702
+5,Prevalence,50,Montenegro,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,8315.802927405375,10584.62035665838,6629.922655306163
+5,Prevalence,50,Montenegro,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,6827.543071489011,8690.315536733451,5443.38085990057
+5,Prevalence,80,France,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,738502.7605912992,938867.3161004654,579896.561317021
+5,Prevalence,80,France,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,5751.47045620471,7311.9125871980605,4516.243023112191
+5,Prevalence,81,Germany,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,800013.2056150245,1025976.339355881,639938.55077744
+5,Prevalence,81,Germany,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,6479.24054688147,8309.29721089444,5182.80920440831
+5,Prevalence,53,Serbia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,111185.2452728628,141251.58885209053,85335.2959089684
+5,Prevalence,53,Serbia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,6976.95066794206,8863.634421733881,5354.848553240779
+5,Prevalence,52,Romania,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,222526.4150860459,281139.8338434941,172716.42495138536
+5,Prevalence,52,Romania,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,6948.87237262465,8779.20413845666,5393.44685519288
+5,Prevalence,59,Latvia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,14126.736176567065,18124.47076021309,11232.334424210849
+5,Prevalence,59,Latvia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,4914.4835338085895,6305.236538487401,3907.56377722841
+5,Prevalence,97,Argentina,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,562070.1004718874,723935.4357232995,445258.6511018857
+5,Prevalence,97,Argentina,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,5019.21803489971,6464.65590686069,3976.1059162005395
+5,Prevalence,95,United Kingdom,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,683617.4766086399,862834.1750355593,546028.7278033153
+5,Prevalence,95,United Kingdom,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,5500.388669514799,6942.36686806166,4393.34910297841
+5,Prevalence,79,Finland,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,44295.91534916101,51550.92835603985,37886.95019364976
+5,Prevalence,79,Finland,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,4770.168313125861,5551.45103149698,4079.9953645872397
+5,Prevalence,78,Denmark,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,72262.937676203,91148.66555776348,56873.7101819057
+5,Prevalence,78,Denmark,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,6900.50936715976,8703.93926280397,5430.96616987674
+5,Prevalence,85,Israel,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,139654.7259723477,177837.55555308564,111806.02018808582
+5,Prevalence,85,Israel,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,5818.88968234534,7409.8252668245905,4658.53835426498
+5,Prevalence,86,Italy,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,474979.9243535306,597760.7795921811,378316.4402092393
+5,Prevalence,86,Italy,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,5507.40599505526,6931.05357161274,4386.590093617379
+5,Prevalence,101,Canada,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,313521.8184816096,392968.1931728826,250424.7182848404
+5,Prevalence,101,Canada,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,4751.05932303194,5954.97693548418,3794.8959925244503
+5,Prevalence,90,Norway,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,50233.01552881016,63550.534334716926,40030.13628414604
+5,Prevalence,90,Norway,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,5091.2544120925,6441.021605340349,4057.1645127781603
+5,Prevalence,105,Antigua and Barbuda,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,604.6895889914,764.1934356122988,482.0714148059095
+5,Prevalence,105,Antigua and Barbuda,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3166.7994042686805,4002.13160719307,2524.63990949252
+5,Prevalence,99,Uruguay,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,36728.52887108826,46471.900242083546,28827.46857141965
+5,Prevalence,99,Uruguay,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,5145.39148478969,6510.364752883919,4038.51218315976
+5,Prevalence,84,Ireland,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,60374.07424417501,76479.27485779347,48346.37877296707
+5,Prevalence,84,Ireland,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,5661.22481023504,7171.39556529927,4533.39819154161
+5,Prevalence,82,Greece,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,86411.48447267995,109163.72472893592,68757.63050626717
+5,Prevalence,82,Greece,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,5375.20696024002,6790.5049490756,4277.0529440881
+5,Prevalence,92,Spain,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,338788.0346657406,437650.870238683,265001.1526238432
+5,Prevalence,92,Spain,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,4510.62050989409,5826.87931531965,3528.2226993347704
+5,Prevalence,88,Malta,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,4517.964541803645,5767.7310443486695,3599.748521762941
+5,Prevalence,88,Malta,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,5932.95542642093,7574.1389471029,4727.16138613563
+5,Prevalence,89,Netherlands,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,155577.00946925947,197301.36360127112,124678.78305673935
+5,Prevalence,89,Netherlands,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,4962.840670000221,6293.82988442367,3977.20034181774
+5,Prevalence,91,Portugal,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,96752.55570606,120928.8695875427,76300.3456828747
+5,Prevalence,91,Portugal,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,6079.20403631241,7598.26204836097,4794.14074452517
+5,Prevalence,83,Iceland,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,4404.784869167781,5623.439681943778,3583.7252203184507
+5,Prevalence,83,Iceland,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,5872.75780590229,7497.5510198743605,4778.06541907471
+5,Prevalence,93,Sweden,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,77480.23769508942,103470.36184933389,58269.159907351655
+5,Prevalence,93,Sweden,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,4181.68605923629,5584.39910048078,3144.84494261464
+5,Prevalence,94,Switzerland,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,85245.30481778961,107537.09218075986,68042.30698826272
+5,Prevalence,94,Switzerland,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,6205.18916304124,7827.85633122358,4952.945934727681
+5,Prevalence,87,Luxembourg,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,6204.760005922262,7790.136057943741,4949.25332981553
+5,Prevalence,87,Luxembourg,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,5740.85818136634,7207.70284096682,4579.2200573441505
+5,Prevalence,106,Bahamas,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,3326.458933014359,4314.708990092743,2591.700582506608
+5,Prevalence,106,Bahamas,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3150.5115080176697,4086.48974803858,2454.61695903881
+5,Prevalence,110,Dominica,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,526.4207163499973,660.0837420469371,414.6368587082932
+5,Prevalence,110,Dominica,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3210.12682384026,4025.20733039866,2528.4660366736
+5,Prevalence,107,Barbados,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,1801.8217802844645,2321.9142220822723,1413.1608226865017
+5,Prevalence,107,Barbados,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3196.6639279592405,4119.37491197055,2507.12932639428
+5,Prevalence,108,Belize,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,3893.7023856325786,5009.014743503556,3072.4463831316657
+5,Prevalence,108,Belize,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3194.44256763406,4109.4588989638,2520.6737806322
+5,Prevalence,109,Cuba,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,63513.52853608779,80995.88787431261,49749.79117970961
+5,Prevalence,109,Cuba,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3219.75648974384,4106.00767484845,2522.01722540508
+5,Prevalence,115,Jamaica,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,23503.104265332586,30786.65108575308,18303.16752072615
+5,Prevalence,115,Jamaica,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3346.3548051735,4383.38087739203,2605.99161248757
+5,Prevalence,114,Haiti,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,121876.26992623544,153238.26853809372,96549.31034908164
+5,Prevalence,114,Haiti,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3101.09504912814,3899.08910231718,2456.66025471151
+5,Prevalence,126,Costa Rica,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,49489.03615257537,64318.01686567159,38608.4006370438
+5,Prevalence,126,Costa Rica,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,4159.04819978825,5405.2726231,3244.64187726647
+5,Prevalence,112,Grenada,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,822.147826183518,1043.587164095221,661.2171517723039
+5,Prevalence,112,Grenada,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3170.1330499764204,4023.9845610087996,2549.59786949161
+5,Prevalence,125,Colombia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,600267.7993609967,752685.5928556006,470881.09175343777
+5,Prevalence,125,Colombia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,4895.54829196734,6138.60792202289,3840.32114817292
+5,Prevalence,113,Guyana,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,6507.940092888626,8322.28788039712,5054.1014266652055
+5,Prevalence,113,Guyana,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3046.6910552016498,3896.07766545446,2366.0767291833004
+5,Prevalence,123,Peru,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,264117.9895757968,338843.19890391344,204557.392884104
+5,Prevalence,123,Peru,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3010.88813137243,3862.73940527355,2331.91017169424
+5,Prevalence,111,Dominican Republic,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,94834.52709431032,120688.75032877194,74340.70196234985
+5,Prevalence,111,Dominican Republic,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3267.34570076216,4158.1044541395695,2561.26940672959
+5,Prevalence,117,Saint Vincent and the Grenadines,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,812.6771050038103,1049.13527520445,639.4105613225902
+5,Prevalence,117,Saint Vincent and the Grenadines,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3075.82026945983,3970.76714110709,2420.0410629428097
+5,Prevalence,127,El Salvador,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,70380.08858535391,88651.15004368394,55012.1185657458
+5,Prevalence,127,El Salvador,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,4208.24829679463,5300.73290157599,3289.3487193697597
+5,Prevalence,128,Guatemala,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,235125.9793010384,305477.6641490756,185625.00191433172
+5,Prevalence,128,Guatemala,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,4729.11446337312,6144.10557293295,3733.4959068593703
+5,Prevalence,118,Suriname,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,4571.420623975682,5719.407870543598,3615.6660069450777
+5,Prevalence,118,Suriname,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3168.21551159987,3963.8261763940895,2505.83135314408
+5,Prevalence,132,Panama,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,42615.609709387325,55388.39977510252,33146.810129636804
+5,Prevalence,132,Panama,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,4094.3574270303798,5321.52203234966,3184.62857066079
+5,Prevalence,129,Honduras,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,136762.07510919266,175282.12109217464,107670.31625249052
+5,Prevalence,129,Honduras,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,4242.70421695654,5437.69311573476,3340.2045445768495
+5,Prevalence,121,Bolivia (Plurinational State of),3,Both,159,10-24 years,630,Low back pain,1,Number,2023,104368.89895371092,134531.92731455152,81062.09962831154
+5,Prevalence,121,Bolivia (Plurinational State of),3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3226.51353121663,4158.988819586651,2505.9952144898803
+5,Prevalence,119,Trinidad and Tobago,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,8855.711475555561,11257.276745971378,6961.904019548272
+5,Prevalence,119,Trinidad and Tobago,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3174.51343658589,4035.40431371271,2495.63887839862
+5,Prevalence,116,Saint Lucia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,1175.7739902543549,1494.1110847724376,920.8077696772272
+5,Prevalence,116,Saint Lucia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3286.52398024248,4176.33996835434,2573.84228714154
+5,Prevalence,135,Brazil,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,2518733.043552792,3201559.2189029227,1983584.38638963
+5,Prevalence,135,Brazil,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,5669.67015938971,7206.71244354224,4465.05009053331
+5,Prevalence,131,Nicaragua,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,79905.99643850456,101969.22781595567,63803.70886635364
+5,Prevalence,131,Nicaragua,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,4215.81102200943,5379.85900548945,3366.26024419662
+5,Prevalence,130,Mexico,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,1256841.6205311974,1625872.4142116923,970588.3364694696
+5,Prevalence,130,Mexico,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3759.12314859213,4862.86778626682,2902.9601055333196
+5,Prevalence,133,Venezuela (Bolivarian Republic of),3,Both,159,10-24 years,630,Low back pain,1,Number,2023,219409.9634264618,280469.36222586926,171987.1553848625
+5,Prevalence,133,Venezuela (Bolivarian Republic of),3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3787.9826983358,4842.136951911711,2969.25608463629
+5,Prevalence,139,Algeria,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,497320.80849277903,635178.9469673423,396780.06495912944
+5,Prevalence,139,Algeria,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,5024.58011590788,6417.4019113494505,4008.78706608799
+5,Prevalence,122,Ecuador,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,135274.9197205374,168364.04785568375,108829.5657886848
+5,Prevalence,122,Ecuador,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2837.38554896093,3531.4285703305995,2282.6954021221
+5,Prevalence,140,Bahrain,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,16625.471494326182,20772.184439518773,13073.669084329473
+5,Prevalence,140,Bahrain,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,5085.07876910225,6353.395397978399,3998.72190798801
+5,Prevalence,136,Paraguay,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,75243.55076854868,95485.7864894179,59393.47222810104
+5,Prevalence,136,Paraguay,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,4490.99516774745,5699.17556165874,3544.9655691107896
+5,Prevalence,141,Egypt,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,1643485.6981725309,2081834.7083709429,1310109.921824034
+5,Prevalence,141,Egypt,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,5171.05536866855,6550.2745520527,4122.12345524343
+5,Prevalence,149,Palestine,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,86303.80851830721,108621.54846096208,68959.34493322457
+5,Prevalence,149,Palestine,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,5058.81591730708,6367.00080507218,4042.14643344813
+5,Prevalence,142,Iran (Islamic Republic of),3,Both,159,10-24 years,630,Low back pain,1,Number,2023,1050814.1859544346,1322415.8122463657,842598.555711006
+5,Prevalence,142,Iran (Islamic Republic of),3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,5585.9235974425,7029.70495639881,4479.08985092553
+5,Prevalence,151,Qatar,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,24136.91777358054,30410.286696345316,19211.60425670295
+5,Prevalence,151,Qatar,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,5129.77847911419,6463.047009645741,4083.00989338267
+5,Prevalence,144,Jordan,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,205283.1900732121,263411.0011640355,163334.02400142772
+5,Prevalence,144,Jordan,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,5252.0487975572805,6739.214406369751,4178.804236484
+5,Prevalence,143,Iraq,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,690628.0750142313,881517.6155941434,553754.2594709895
+5,Prevalence,143,Iraq,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,5049.22007575237,6444.8240707498,4048.5280357255897
+5,Prevalence,154,Tunisia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,135512.86695464575,171906.8795013211,108691.8629879053
+5,Prevalence,154,Tunisia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,5255.45128168599,6666.88153316268,4215.28083262976
+5,Prevalence,155,Türkiye,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,1062195.7380325294,1342476.799844279,850837.451103312
+5,Prevalence,155,Türkiye,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,5475.519271181601,6920.34182162801,4385.987152225361
+5,Prevalence,150,Oman,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,49303.71063118596,62801.07830659521,39258.08668971587
+5,Prevalence,150,Oman,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,4860.34738959022,6190.9144991987905,3870.0523088413497
+5,Prevalence,157,Yemen,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,590779.0756180156,731940.89189519,471121.6978111909
+5,Prevalence,157,Yemen,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,5093.12282730047,6310.08276798958,4061.55324822333
+5,Prevalence,165,Pakistan,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,2383642.4621458463,3180914.869215865,1806075.8601748464
+5,Prevalence,165,Pakistan,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3142.7339120825704,4193.90457658357,2381.23625657155
+5,Prevalence,147,Libya,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,93559.27759620995,117847.42120360234,72991.72047676767
+5,Prevalence,147,Libya,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,5155.52829444268,6493.9119887656,4022.16530360717
+5,Prevalence,163,India,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,11078247.26431422,14145988.39081327,8717520.332026748
+5,Prevalence,163,India,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2794.77013254626,3568.6859939787,2199.2166154562997
+5,Prevalence,164,Nepal,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,413457.6509274178,529499.6981339864,321229.35075222165
+5,Prevalence,164,Nepal,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,4696.089029121879,6014.10499419415,3648.5517356269
+5,Prevalence,148,Morocco,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,553646.8923871596,697814.0698482003,433672.887384842
+5,Prevalence,148,Morocco,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,5955.85450309235,7506.73240900321,4665.234565055381
+5,Prevalence,145,Kuwait,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,52874.5445151413,68613.89623377865,41550.5942187155
+5,Prevalence,145,Kuwait,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,5232.77672317696,6790.435783248789,4112.09182519961
+5,Prevalence,162,Bhutan,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,7814.631423570512,10047.080346450664,6171.840246134343
+5,Prevalence,162,Bhutan,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3972.94085959512,5107.912819490481,3137.74955768258
+5,Prevalence,169,Central African Republic,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,65328.75093589052,82277.57322144942,51645.85983831428
+5,Prevalence,169,Central African Republic,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3098.66867088157,3902.5840048229697,2449.6627529090797
+5,Prevalence,161,Bangladesh,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,2047073.026887488,2572925.252216792,1615699.7896663714
+5,Prevalence,161,Bangladesh,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,4047.3026651297305,5086.97398368337,3194.42735011215
+5,Prevalence,152,Saudi Arabia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,385145.3297051431,487068.2512746832,308259.83599434304
+5,Prevalence,152,Saudi Arabia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,5110.37768836701,6462.762318659469,4090.20716748971
+5,Prevalence,160,Afghanistan,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,617739.0008406213,766038.5477494647,484260.4167942831
+5,Prevalence,160,Afghanistan,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,5136.38497308363,6369.46814125196,4026.53535635046
+5,Prevalence,146,Lebanon,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,63158.77205628472,79504.6744631101,50599.07334782055
+5,Prevalence,146,Lebanon,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,4959.69926395312,6243.301802386491,3973.4177639846
+5,Prevalence,153,Syrian Arab Republic,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,320165.63276950066,405205.5314261959,253164.94791679012
+5,Prevalence,153,Syrian Arab Republic,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,5343.9839925122005,6763.4113470822,4225.6547569755
+5,Prevalence,168,Angola,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,358388.0238753353,450326.6026473079,282873.2275014954
+5,Prevalence,168,Angola,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3028.44296140432,3805.34041113705,2390.3294131687203
+5,Prevalence,156,United Arab Emirates,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,52315.40524283592,66563.05415280991,41417.37780024781
+5,Prevalence,156,United Arab Emirates,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,4761.252910924741,6057.93903103726,3769.4176256295705
+5,Prevalence,170,Congo,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,57762.36976846324,73328.81589688039,45784.50300003736
+5,Prevalence,170,Congo,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2968.50962720789,3768.4966322224996,2352.94601792366
+5,Prevalence,171,Democratic Republic of the Congo,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,962180.3772273264,1210363.194230458,763128.8239056938
+5,Prevalence,171,Democratic Republic of the Congo,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3088.06364195704,3884.592392579,2449.21891051602
+5,Prevalence,172,Equatorial Guinea,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,17602.746674298887,22184.22166082139,13919.918639754933
+5,Prevalence,172,Equatorial Guinea,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2972.90757662224,3746.66760121116,2350.91899893747
+5,Prevalence,182,Malawi,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,222184.99562231227,283080.3879732641,175867.07390102174
+5,Prevalence,182,Malawi,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2954.5787623153597,3764.35546419862,2338.65081700559
+5,Prevalence,173,Gabon,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,16450.749925769494,20816.53242320217,12956.515454261127
+5,Prevalence,173,Gabon,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2927.25724041311,3704.10744379864,2305.49086486318
+5,Prevalence,178,Eritrea,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,56393.00004237613,71032.68018641639,44660.87334790258
+5,Prevalence,178,Eritrea,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2594.36113903677,3267.8599283383796,2054.6244066138397
+5,Prevalence,179,Ethiopia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,1098947.868358146,1387410.5886292837,866207.5161720022
+5,Prevalence,179,Ethiopia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2864.67166503851,3616.61905487717,2257.97801612609
+5,Prevalence,181,Madagascar,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,314595.9780849692,398480.6836375948,252017.70999517685
+5,Prevalence,181,Madagascar,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2997.73224252606,3797.0555143003503,2401.43443517283
+5,Prevalence,176,Comoros,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,7831.259064811766,9720.943398777885,6168.749531285956
+5,Prevalence,176,Comoros,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2776.92680321553,3446.9997803930596,2187.40891777189
+5,Prevalence,175,Burundi,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,140916.97782185077,181123.54901922325,111179.58521770948
+5,Prevalence,175,Burundi,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2977.97273481418,3827.65085477436,2349.5378524570397
+5,Prevalence,194,Lesotho,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,14301.01920790573,18135.66418385012,11087.5373974105
+5,Prevalence,194,Lesotho,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2361.66183284829,2994.9128305957197,1830.9893519524198
+5,Prevalence,177,Djibouti,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,10310.13427570932,13183.445802270317,8069.105868236475
+5,Prevalence,177,Djibouti,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2601.01487210887,3325.88671305033,2035.65383404864
+5,Prevalence,183,Mauritius,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,6068.634083612765,7919.855625947368,4684.290154379816
+5,Prevalence,183,Mauritius,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2422.06289992327,3160.90708717374,1869.55503315582
+5,Prevalence,186,Seychelles,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,464.0785449634093,586.9554451554565,358.8111871628724
+5,Prevalence,186,Seychelles,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2114.1231762782,2673.8924337553203,1634.57469629141
+5,Prevalence,189,United Republic of Tanzania,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,616519.0324454686,778280.8217800576,491625.1485760355
+5,Prevalence,189,United Republic of Tanzania,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2888.89290323482,3646.87840024314,2303.66351731193
+5,Prevalence,187,Somalia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,207129.80377813475,264443.6199102352,164832.99975729265
+5,Prevalence,187,Somalia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2932.63482016404,3744.10902522588,2333.7780743427497
+5,Prevalence,180,Kenya,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,559426.1701235019,700162.464310236,443708.2081828743
+5,Prevalence,180,Kenya,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3137.61423731804,3926.95199792048,2488.59503820159
+5,Prevalence,185,Rwanda,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,140436.8334973752,179548.6469471261,112773.15739696134
+5,Prevalence,185,Rwanda,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3135.57857599306,4008.84067730332,2517.92273775251
+5,Prevalence,184,Mozambique,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,350730.7727578235,441789.4678966245,273122.81712896726
+5,Prevalence,184,Mozambique,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3104.993032489,3911.12878080197,2417.93566481483
+5,Prevalence,193,Botswana,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,15584.697060805496,19804.548993110144,12096.985824007095
+5,Prevalence,193,Botswana,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2393.66943994029,3041.8007813465797,1857.98833107508
+5,Prevalence,191,Zambia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,194823.08310084735,246638.65224676183,154226.5592542957
+5,Prevalence,191,Zambia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2665.67263640796,3374.64070432767,2110.2094899027798
+5,Prevalence,196,South Africa,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,390740.3170578513,497926.436477027,306678.68281671905
+5,Prevalence,196,South Africa,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2389.05339194413,3044.40773084588,1875.0861260927
+5,Prevalence,195,Namibia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,22404.22744292708,28181.74674524612,17443.597542624113
+5,Prevalence,195,Namibia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2479.87388675398,3119.37459190154,1930.7928446627097
+5,Prevalence,190,Uganda,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,470918.6647296458,588652.8474047987,372918.25616268
+5,Prevalence,190,Uganda,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2956.16171422766,3695.2304947780794,2340.97043496364
+5,Prevalence,197,Eswatini,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,7665.365043308563,9696.729961048244,6067.353007442424
+5,Prevalence,197,Eswatini,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2107.9664389086797,2666.5894200163802,1668.51499445092
+5,Prevalence,305,Bermuda,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,290.2666488621398,375.47399509621454,227.59459755312744
+5,Prevalence,305,Bermuda,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3226.01885535405,4173.0119275631705,2529.48268759536
+5,Prevalence,320,Cook Islands,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,87.34407843870189,111.20684996313784,68.0672854161059
+5,Prevalence,320,Cook Islands,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2562.19659358148,3262.1995360388996,1996.7211280370898
+5,Prevalence,203,Cabo Verde,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,3304.305675086396,4170.6784907361625,2577.60837968853
+5,Prevalence,203,Cabo Verde,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2516.6751266204,3176.5350578505295,1963.1969718300402
+5,Prevalence,207,Ghana,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,264816.0494431744,332642.60166356503,211634.0227033693
+5,Prevalence,207,Ghana,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2568.81437050456,3226.75720445242,2052.92889139924
+5,Prevalence,298,American Samoa,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,347.1300044060446,438.9546072923696,271.5445106694623
+5,Prevalence,298,American Samoa,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2538.6061136767503,3210.13117723909,1985.8397320057597
+5,Prevalence,215,Sao Tome and Principe,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,1722.6114643683084,2188.402497178405,1340.4742954449207
+5,Prevalence,215,Sao Tome and Principe,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2332.45890492332,2963.15158564906,1815.03564321038
+5,Prevalence,211,Mali,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,185214.6927025997,230376.1843593709,144000.027256493
+5,Prevalence,211,Mali,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2412.869973591,3001.20778627294,1875.94913175374
+5,Prevalence,209,Guinea-Bissau,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,18507.436511836942,23386.00271126325,14450.399997134846
+5,Prevalence,209,Guinea-Bissau,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2593.11416831832,3276.65989463867,2024.6746191170998
+5,Prevalence,218,Togo,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,70172.20607903079,89834.2986303078,54679.85635503464
+5,Prevalence,218,Togo,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2619.2960413155,3353.2168350488,2041.01793706099
+5,Prevalence,202,Cameroon,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,309995.0621919848,396855.5471734579,245479.1276690878
+5,Prevalence,202,Cameroon,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2788.41316545034,3569.72535206104,2208.09075665801
+5,Prevalence,216,Senegal,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,150883.1886412102,192680.24077123293,118672.8062812292
+5,Prevalence,216,Senegal,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2389.2876474246,3051.15847115499,1879.22506600255
+5,Prevalence,200,Benin,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,124824.90819935295,158541.85132766468,98566.62449184846
+5,Prevalence,200,Benin,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2687.7389858473202,3413.7346531930602,2122.34371466165
+5,Prevalence,217,Sierra Leone,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,69731.5025721412,90515.18546819835,54270.038073028445
+5,Prevalence,217,Sierra Leone,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2716.99208315813,3526.79969957994,2114.55738594708
+5,Prevalence,210,Liberia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,49845.21480295042,62802.3211106812,38829.734131704194
+5,Prevalence,210,Liberia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2708.63152953796,3412.7317488957697,2110.04090499946
+5,Prevalence,212,Mauritania,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,36630.39951844946,47088.63096381528,28573.239285288422
+5,Prevalence,212,Mauritania,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2412.0837043412303,3100.75022114759,1881.52588468421
+5,Prevalence,214,Nigeria,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,2170163.981649433,2737739.5760194547,1705402.2398689298
+5,Prevalence,214,Nigeria,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2610.16394165304,3292.81528188076,2051.17192532932
+5,Prevalence,204,Chad,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,190548.29699769116,238939.30033626364,152298.9819815567
+5,Prevalence,204,Chad,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2990.2231019518904,3749.61008357043,2389.98690358551
+5,Prevalence,205,Côte d'Ivoire,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,315359.2923359724,396327.99998785625,248355.8896631647
+5,Prevalence,205,Côte d'Ivoire,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2844.77625397585,3575.17444562894,2240.35553928159
+5,Prevalence,201,Burkina Faso,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,207255.4280597081,264491.5791205114,163874.81461143016
+5,Prevalence,201,Burkina Faso,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2703.58664399096,3450.2155502160704,2137.69918702596
+5,Prevalence,213,Niger,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,242873.9378868646,303340.0048995914,188596.04176318343
+5,Prevalence,213,Niger,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2733.52591695804,3414.0664587464503,2122.63272247641
+5,Prevalence,198,Zimbabwe,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,138500.3944737045,172300.37718224252,110528.00901263212
+5,Prevalence,198,Zimbabwe,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2724.64949222326,3389.5797696706504,2174.36264190491
+5,Prevalence,208,Guinea,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,125574.9742416064,154920.84693453147,99228.93534264158
+5,Prevalence,208,Guinea,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2736.0886670953,3375.49082653074,2162.04834664404
+5,Prevalence,206,Gambia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,21780.115194379192,27590.947976480464,16994.999973621456
+5,Prevalence,206,Gambia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2530.75270845855,3205.94568473343,1974.74355987773
+5,Prevalence,349,Greenland,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,497.7813790219175,618.9142010974139,392.0531415870683
+5,Prevalence,349,Greenland,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,4557.92896720763,5667.08013654698,3589.8296843397397
+5,Prevalence,351,Guam,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,903.845700335934,1165.2365977739,702.2608556196622
+5,Prevalence,351,Guam,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2586.51629489487,3334.53314700713,2009.64517024527
+5,Prevalence,522,Sudan,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,612331.2052393665,785354.6149777102,489069.04950779286
+5,Prevalence,522,Sudan,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,5240.86255020308,6721.74724242067,4185.87791067556
+5,Prevalence,396,San Marino,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,292.3150449307979,373.4846301092625,232.5207203443094
+5,Prevalence,396,San Marino,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,5526.39284639581,7060.95298161354,4395.94494992141
+5,Prevalence,385,Puerto Rico,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,17983.775745849944,23288.73359628582,14314.22089848346
+5,Prevalence,385,Puerto Rico,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3159.3745133736097,4091.34502190579,2514.7102212895797
+5,Prevalence,393,Saint Kitts and Nevis,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,310.0266788496877,399.2559821660541,243.90092706696893
+5,Prevalence,393,Saint Kitts and Nevis,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3169.7496477889104,4082.0406603202296,2493.6720947191197
+5,Prevalence,413,Tokelau,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,11.205343005273209,14.287369196826717,8.765436504085296
+5,Prevalence,413,Tokelau,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2506.12276821962,3195.4310747361296,1960.42726991345
+5,Prevalence,369,Nauru,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,99.92238839060916,126.71291236963052,78.9254641678775
+5,Prevalence,369,Nauru,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2638.64045978983,3346.09513184667,2084.17679376272
+5,Prevalence,374,Niue,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,9.80614410144952,12.507098411784067,7.595091393483154
+5,Prevalence,374,Niue,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2579.30452798417,3289.73501018507,1997.73258673294
+5,Prevalence,422,United States Virgin Islands,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,410.5528303711524,514.1005249672705,322.11303656260486
+5,Prevalence,422,United States Virgin Islands,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3130.1534302077503,3919.6259352130896,2455.86719107398
+5,Prevalence,376,Northern Mariana Islands,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,299.4165338180576,379.7306184719355,232.8503792814822
+5,Prevalence,376,Northern Mariana Islands,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2586.60435462455,3280.42295727273,2011.5515911738098
+5,Prevalence,380,Palau,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,90.39592098247005,116.7746523532674,70.26483327464368
+5,Prevalence,380,Palau,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2624.19807464156,3389.97395614574,2039.79159889402
+5,Prevalence,416,Tuvalu,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,76.2438655553081,97.04750147626368,58.8764504900056
+5,Prevalence,416,Tuvalu,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2593.22087612944,3300.79810318496,2002.51704725449
+5,Prevalence,435,South Sudan,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,103243.54097734675,129063.76872973576,81502.84272504548
+5,Prevalence,435,South Sudan,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2881.37430985171,3601.9786228767503,2274.6236227926197
+5,Prevalence,367,Monaco,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,295.31018237871115,368.75146239710455,231.07072802044144
+5,Prevalence,367,Monaco,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,5525.56474281198,6899.72849249334,4323.57684913234
+6,Incidence,7,Democratic People's Republic of Korea,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,71146.59728526785,88201.1696356298,54605.894859499625
+6,Incidence,7,Democratic People's Republic of Korea,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1328.05370227579,1646.40185685884,1019.29766990076
+6,Incidence,18,Thailand,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,115048.00332408058,144358.98093390375,87830.62669302782
+6,Incidence,18,Thailand,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1032.4600983669102,1295.50173274471,788.20679068778
+6,Incidence,43,Albania,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,13544.083553877945,16667.69214550557,10833.1224343841
+6,Incidence,43,Albania,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3088.47266604873,3800.75266021007,2470.28914089761
+6,Incidence,15,Myanmar,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,152501.29567959576,194175.98670027737,115977.55009277225
+6,Incidence,15,Myanmar,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,989.2732859003199,1259.61629079865,752.34437556517
+6,Incidence,29,Tonga,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,419.0027918465254,526.7515468587006,330.42540240412734
+6,Incidence,29,Tonga,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1264.74398392054,1589.97950103015,997.37650430313
+6,Incidence,12,Lao People's Democratic Republic,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,23459.13430407323,29662.323143650334,18000.971011191716
+6,Incidence,12,Lao People's Democratic Republic,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1131.66965029918,1430.91174737883,868.3676177148599
+6,Incidence,40,Turkmenistan,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,26483.797972950884,32928.7158768861,21029.209256887327
+6,Incidence,40,Turkmenistan,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1820.87109461305,2263.98596546411,1445.84546814411
+6,Incidence,23,Kiribati,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,489.49702223297993,607.5816592647235,379.0419809267929
+6,Incidence,23,Kiribati,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1304.88091909836,1619.66606119885,1010.4344377670301
+6,Incidence,6,China,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,2847694.9194237944,3592149.367592906,2246849.584853106
+6,Incidence,6,China,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1186.11929305504,1496.19878146902,935.85574178227
+6,Incidence,26,Papua New Guinea,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,39792.4713781534,50200.51246837011,31221.68272298447
+6,Incidence,26,Papua New Guinea,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1246.48125258342,1572.5084543569599,978.00515626365
+6,Incidence,37,Kyrgyzstan,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,35133.45314396059,42939.19273564752,27519.768041119634
+6,Incidence,37,Kyrgyzstan,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1859.60925124198,2272.76606500601,1456.61785739089
+6,Incidence,20,Viet Nam,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,243119.71413722372,303725.32463372755,188811.6052064851
+6,Incidence,20,Viet Nam,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1104.11493716561,1379.35201558476,857.47761903434
+6,Incidence,34,Azerbaijan,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,43123.902215625225,53462.29657323252,34021.14839408431
+6,Incidence,34,Azerbaijan,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1858.72265268523,2304.32721993413,1466.37655549496
+6,Incidence,17,Sri Lanka,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,58423.50000500146,73997.99835691878,44869.93384837883
+6,Incidence,17,Sri Lanka,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1100.01966012557,1393.2621803825898,844.82801231568
+6,Incidence,28,Solomon Islands,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,3553.944000387867,4336.71523797119,2786.941188304265
+6,Incidence,28,Solomon Islands,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1324.56893086679,1616.31085509685,1038.70396094534
+6,Incidence,39,Tajikistan,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,53528.10155327794,67598.71183422768,42662.41054190892
+6,Incidence,39,Tajikistan,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1753.56327952939,2214.51191759539,1397.60675928395
+6,Incidence,25,Micronesia (Federated States of),3,Both,159,10-24 years,630,Low back pain,1,Number,2023,402.1632868888011,510.5454932164233,315.68228626543066
+6,Incidence,25,Micronesia (Federated States of),3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1304.88928599495,1656.55435448866,1024.286518824
+6,Incidence,14,Maldives,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,1360.5194796192454,1718.2396564365622,1050.4664103354894
+6,Incidence,14,Maldives,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1038.0651456591902,1311.00269121864,801.4972101393
+6,Incidence,11,Indonesia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,835190.2041204367,1048099.878784664,646465.7705322129
+6,Incidence,11,Indonesia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1204.16419681483,1511.13404167329,932.06425494539
+6,Incidence,8,Taiwan,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,52689.897050113526,59905.87493456732,44603.401414934895
+6,Incidence,8,Taiwan,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1591.76831165916,1809.7638967175699,1347.47427760165
+6,Incidence,22,Fiji,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,3012.641863783582,3780.943554948373,2373.6662932895306
+6,Incidence,22,Fiji,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1221.7637653398601,1533.34516450942,962.6300102288101
+6,Incidence,36,Kazakhstan,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,87239.30763816676,109091.48154641232,68896.80032220483
+6,Incidence,36,Kazakhstan,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1887.22386807645,2359.94591603269,1490.42546900358
+6,Incidence,19,Timor-Leste,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,4831.027909361905,6083.401694642886,3733.993319821123
+6,Incidence,19,Timor-Leste,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1062.9298493771698,1338.4789672725499,821.55868926393
+6,Incidence,33,Armenia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,10678.67760078216,13292.940778072358,8546.9868999525
+6,Incidence,33,Armenia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1979.5024976429602,2464.10749110797,1584.35178476953
+6,Incidence,46,Croatia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,16864.3481621006,20922.433087705784,13372.827981159357
+6,Incidence,46,Croatia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2862.50495789681,3551.31238214203,2269.86457046685
+6,Incidence,44,Bosnia and Herzegovina,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,14495.524331465062,18015.800228859556,11563.071938588006
+6,Incidence,44,Bosnia and Herzegovina,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2916.28078062517,3624.50717570528,2326.31560531362
+6,Incidence,30,Vanuatu,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,1340.3681002628896,1689.7708650809377,1053.2191043557937
+6,Incidence,30,Vanuatu,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1371.4547854878901,1728.9611255585198,1077.64604406261
+6,Incidence,16,Philippines,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,385084.99743012665,481540.6780590104,299061.302522752
+6,Incidence,16,Philippines,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1149.3176152542399,1437.19746925512,892.5728743630001
+6,Incidence,13,Malaysia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,93214.10162625986,118639.82601400973,71057.03178588302
+6,Incidence,13,Malaysia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1105.69774256476,1407.29552195792,842.87246530593
+6,Incidence,27,Samoa,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,786.3752314752771,978.1723112936372,622.5237647886963
+6,Incidence,27,Samoa,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1252.16740350642,1557.57128936599,991.26210360684
+6,Incidence,41,Uzbekistan,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,152718.28238725782,187920.9763800179,122463.40278130218
+6,Incidence,41,Uzbekistan,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1870.30873045979,2301.4287305093603,1499.78357406404
+6,Incidence,10,Cambodia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,53151.99842305388,67221.96480170189,40655.01252740057
+6,Incidence,10,Cambodia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1174.8944705231202,1485.90301562328,898.65575772544
+6,Incidence,24,Marshall Islands,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,154.8309432372759,193.2348284158301,120.8252471777481
+6,Incidence,24,Marshall Islands,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1192.46641377901,1488.24284112965,930.5636598442101
+6,Incidence,38,Mongolia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,14920.888185632297,18297.843910256284,12010.36488882296
+6,Incidence,38,Mongolia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1815.6127053035698,2226.5295115014,1461.4526170417
+6,Incidence,45,Bulgaria,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,28567.009191647176,35200.63572719699,22862.085033751573
+6,Incidence,45,Bulgaria,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2926.7061095898,3606.32486772033,2342.23343078583
+6,Incidence,35,Georgia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,10863.409878906998,13409.193994875466,8586.358850117045
+6,Incidence,35,Georgia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1717.73987807691,2120.28336540907,1357.68889959334
+6,Incidence,54,Slovakia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,24782.510683602763,30359.44643552301,19810.060145192947
+6,Incidence,54,Slovakia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3004.46510407881,3680.57532827091,2401.63860618508
+6,Incidence,48,Hungary,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,47753.82357808379,58619.69812233448,38057.951257561646
+6,Incidence,48,Hungary,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3249.43362584452,3988.8076795381103,2589.6729786435
+6,Incidence,57,Belarus,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,35190.35557944326,43063.00236597079,28128.56346612805
+6,Incidence,57,Belarus,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2284.57080412294,2795.6659238943303,1826.11666743642
+6,Incidence,51,Poland,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,180114.83725048683,223350.49942705675,144537.88909087377
+6,Incidence,51,Poland,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2962.1850050633802,3673.24263995057,2377.0832778927197
+6,Incidence,47,Czechia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,53960.111571051566,66978.6064484871,43062.93768275146
+6,Incidence,47,Czechia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3146.45543499363,3905.57384246037,2511.03287917173
+6,Incidence,50,Montenegro,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,3653.877068048168,4555.814763289676,2896.410031667986
+6,Incidence,50,Montenegro,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2999.9512107015,3740.4712201123402,2378.04628326806
+6,Incidence,59,Latvia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,6419.545025264599,8079.907525061595,5148.250604962629
+6,Incidence,59,Latvia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2233.26520201727,2810.88087087508,1791.0005899294201
+6,Incidence,53,Serbia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,48405.88229257808,60258.283733188815,38046.63703701183
+6,Incidence,53,Serbia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3037.5024308729603,3781.24877909431,2387.4526609792697
+6,Incidence,49,North Macedonia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,8898.376904108809,11138.848051564895,7149.606457971492
+6,Incidence,49,North Macedonia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2774.77096995469,3473.41459518838,2229.45382736255
+6,Incidence,55,Slovenia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,8644.713846858136,10736.731181046192,6851.488063404828
+6,Incidence,55,Slovenia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2740.16797620091,3403.2875434128205,2171.75819966419
+6,Incidence,62,Russian Federation,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,571688.7061872317,710241.1393054678,460462.5505978331
+6,Incidence,62,Russian Federation,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2304.83942159235,2863.43207236943,1856.4163106578198
+6,Incidence,58,Estonia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,4851.338628010214,6028.598221375286,3858.380687738423
+6,Incidence,58,Estonia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2271.1453472963503,2822.27728283962,1806.29389514484
+6,Incidence,52,Romania,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,97641.97271264473,120824.89431377684,77533.22509660925
+6,Incidence,52,Romania,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3049.08343725892,3773.02069822876,2421.14396003722
+6,Incidence,71,Australia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,147984.73361729542,187996.21766966995,116195.05490772796
+6,Incidence,71,Australia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3011.38718427174,3825.59326724929,2364.4891650093
+6,Incidence,68,Republic of Korea,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,185183.6671563578,230578.56418732696,144457.5351601478
+6,Incidence,68,Republic of Korea,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2515.09510262226,3131.6315659067404,1961.96805472807
+6,Incidence,61,Republic of Moldova,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,11989.096011069092,14898.43541664791,9330.166326677989
+6,Incidence,61,Republic of Moldova,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2243.83575720138,2788.3371759944002,1746.20011426278
+6,Incidence,67,Japan,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,512359.489056065,638067.8156204398,405504.6696105173
+6,Incidence,67,Japan,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3032.92076625677,3777.05335728362,2400.39183336224
+6,Incidence,85,Israel,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,63109.37083438548,78975.13998304558,49805.88742765307
+6,Incidence,85,Israel,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2629.53125467608,3290.59846710891,2075.2248980833497
+6,Incidence,82,Greece,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,39561.030938421776,49483.07168895949,30856.76649946476
+6,Incidence,82,Greece,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2460.88503342061,3078.08334713477,1919.4382213265098
+6,Incidence,79,Finland,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,20689.18809060036,25336.02265159417,17068.285217731045
+6,Incidence,79,Finland,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2227.99119684411,2728.40264120567,1838.06097386714
+6,Incidence,76,Belgium,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,52761.55357739572,64798.39012763963,41574.42456773998
+6,Incidence,76,Belgium,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2619.90209317137,3217.59740604511,2064.39944547201
+6,Incidence,93,Sweden,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,37614.835661316014,48834.32135340812,28001.139488614263
+6,Incidence,93,Sweden,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2030.1103685870298,2635.63725268171,1511.24955376447
+6,Incidence,90,Norway,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,23488.89489136777,29139.79488159343,18905.597381729567
+6,Incidence,90,Norway,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2380.66416065079,2953.3984312228904,1916.1343405269201
+6,Incidence,87,Luxembourg,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,2800.989810975652,3431.281761142652,2221.502460241548
+6,Incidence,87,Luxembourg,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2591.57247934091,3174.74035292698,2055.41077521619
+6,Incidence,60,Lithuania,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,9503.573797234145,11692.72695929172,7620.367994452273
+6,Incidence,60,Lithuania,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2270.27350830576,2793.23219053219,1820.4014563848702
+6,Incidence,84,Ireland,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,27418.426239775305,33651.92085546829,21876.73105079005
+6,Incidence,84,Ireland,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2571.00215331569,3155.51156094826,2051.3621805724197
+6,Incidence,69,Singapore,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,15375.186386862651,18920.741105552283,12248.155182364051
+6,Incidence,69,Singapore,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2105.66759859972,2591.23957817495,1677.41338941829
+6,Incidence,78,Denmark,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,26639.412772739717,35029.76453737199,19498.384468547098
+6,Incidence,78,Denmark,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2543.84229710691,3345.05108832765,1861.93350279475
+6,Incidence,63,Ukraine,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,144966.2325750623,179272.67433826567,115800.44308726412
+6,Incidence,63,Ukraine,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2555.5458131547502,3160.31895276708,2041.39496651326
+6,Incidence,66,Brunei Darussalam,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,2493.661016550772,3082.9779604518685,1935.9216738906575
+6,Incidence,66,Brunei Darussalam,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2408.57261756951,2977.7809601345602,1869.8643891630297
+6,Incidence,81,Germany,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,349006.40082850377,435172.3907505705,278108.6102915606
+6,Incidence,81,Germany,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2826.57387090353,3524.42507104221,2252.3785502423802
+6,Incidence,75,Austria,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,30658.963861428758,37828.059518593305,24329.037790856142
+6,Incidence,75,Austria,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2236.92524166432,2759.99350672048,1775.0840826111
+6,Incidence,98,Chile,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,96414.42964635584,120194.19732229682,76247.79697844421
+6,Incidence,98,Chile,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2433.70903249511,3033.96187427252,1924.65954416717
+6,Incidence,101,Canada,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,149465.87157470238,186009.74056988035,119364.5945251562
+6,Incidence,101,Canada,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2264.9818314374797,2818.76175760036,1808.83190970626
+6,Incidence,72,New Zealand,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,31462.36390126697,39139.15180208039,24808.24533922204
+6,Incidence,72,New Zealand,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,3150.35394003354,3919.03740851111,2484.0712444556502
+6,Incidence,92,Spain,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,168285.34908748005,214095.8783183197,130250.60680549189
+6,Incidence,92,Spain,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2240.54945700074,2850.47038564747,1734.15527813035
+6,Incidence,107,Barbados,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,856.2653552240787,1078.5535714134053,661.3019142829494
+6,Incidence,107,Barbados,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1519.12503431603,1913.49296241969,1173.23477716256
+6,Incidence,95,United Kingdom,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,317108.45200193813,393414.8958477645,252751.98008978515
+6,Incidence,95,United Kingdom,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2551.45574254734,3165.4176635074605,2033.64333864034
+6,Incidence,89,Netherlands,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,72399.21294893061,90294.29741087106,57761.11227997018
+6,Incidence,89,Netherlands,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2309.50421096733,2880.3498215352297,1842.5550031164798
+6,Incidence,80,France,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,333169.25747634337,412988.4520424655,265721.1285872928
+6,Incidence,80,France,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2594.72712025692,3216.36019176709,2069.4400917818202
+6,Incidence,86,Italy,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,220645.3428161033,275744.2528665134,174439.10713181942
+6,Incidence,86,Italy,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2558.38914762629,3197.26260726914,2022.62650510426
+6,Incidence,83,Iceland,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,1977.322385526673,2411.2658347488914,1576.5938560526597
+6,Incidence,83,Iceland,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2636.30025513166,3214.86308043065,2102.0218126158297
+6,Incidence,77,Cyprus,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,5635.388254956431,6862.599472014346,4454.365337583363
+6,Incidence,77,Cyprus,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2564.25816965239,3122.6733571884097,2026.8599412770798
+6,Incidence,106,Bahamas,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,1589.1805392541771,1974.1109774305853,1221.933057715136
+6,Incidence,106,Bahamas,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1505.12351965248,1869.69371266614,1157.3009731613402
+6,Incidence,91,Portugal,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,42884.56469981779,53558.79714595206,34092.56629432963
+6,Incidence,91,Portugal,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2694.5440036815803,3365.23261234448,2142.12084747809
+6,Incidence,97,Argentina,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,269375.41153986345,339138.8586153741,211891.4425707322
+6,Incidence,97,Argentina,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2405.48985371094,3028.4690006967,1892.1649614506202
+6,Incidence,74,Andorra,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,344.70401590086374,428.45613465898094,270.57489931373595
+6,Incidence,74,Andorra,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2535.03380212813,3150.9664349314003,1989.87097372549
+6,Incidence,94,Switzerland,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,37521.12026126072,47058.50542442667,29787.63091817948
+6,Incidence,94,Switzerland,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2731.24307934616,3425.48986730389,2168.3057496392
+6,Incidence,88,Malta,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,2022.2747849434008,2566.81171161592,1586.6446487366102
+6,Incidence,88,Malta,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2655.6353083404897,3370.7169084936804,2083.56924704096
+6,Incidence,102,United States of America,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,1699470.142662345,1992245.995980966,1397994.9706848185
+6,Incidence,102,United States of America,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2621.42078499455,3073.02548693513,2156.39744498833
+6,Incidence,110,Dominica,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,250.7109827473326,314.5624941118052,196.03825948442108
+6,Incidence,110,Dominica,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1528.84190487191,1918.2100338373298,1195.44625757375
+6,Incidence,99,Uruguay,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,17451.804774949578,21912.60961172492,13711.542717970457
+6,Incidence,99,Uruguay,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2444.86698605352,3069.79229419785,1920.8843183455501
+6,Incidence,105,Antigua and Barbuda,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,288.76643325425243,365.29283455486393,226.2886625952804
+6,Incidence,105,Antigua and Barbuda,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1512.28892550913,1913.06275469614,1185.08870492507
+6,Incidence,108,Belize,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,1859.3717523873036,2321.1715537432465,1465.7972489616216
+6,Incidence,108,Belize,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1525.4520470797,1904.3184310693202,1202.55855837405
+6,Incidence,118,Suriname,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,2191.317951566043,2745.426156857811,1713.5167601410112
+6,Incidence,118,Suriname,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1518.68928634289,1902.71306265061,1187.54995993866
+6,Incidence,121,Bolivia (Plurinational State of),3,Both,159,10-24 years,630,Low back pain,1,Number,2023,49320.94034395647,61503.88994841905,39035.44348923725
+6,Incidence,121,Bolivia (Plurinational State of),3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1524.7327794717999,1901.36271562129,1206.76166825259
+6,Incidence,112,Grenada,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,392.11975223114825,497.6210724272376,309.0062699982027
+6,Incidence,112,Grenada,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1511.98087072367,1918.7851111755701,1191.50225540166
+6,Incidence,115,Jamaica,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,11098.79215334604,13930.236545925696,8644.142071411177
+6,Incidence,115,Jamaica,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1580.23791388077,1983.37689678807,1230.74662949677
+6,Incidence,109,Cuba,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,30187.84316580832,37625.97697445029,23530.38389901832
+6,Incidence,109,Cuba,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1530.34331716043,1907.41226851543,1192.8499016076698
+6,Incidence,135,Brazil,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,1143395.4336653575,1432681.490376716,905235.467289934
+6,Incidence,135,Brazil,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2573.78406466245,3224.9672170263802,2037.6857838318
+6,Incidence,129,Honduras,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,64626.78974431226,80703.65261062745,50963.97142792527
+6,Incidence,129,Honduras,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2004.8858805165,2503.6306811045897,1581.03082537665
+6,Incidence,126,Costa Rica,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,23293.96693015334,29411.891176977715,18075.463934330885
+6,Incidence,126,Costa Rica,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1957.62008635805,2471.76915458296,1519.05819108389
+6,Incidence,123,Peru,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,126738.81065565169,157377.00319707283,99496.2803736496
+6,Incidence,123,Peru,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1444.79511373021,1794.0639024175298,1134.23614261895
+6,Incidence,132,Panama,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,20195.90682948309,25799.2581480326,15789.440734706024
+6,Incidence,132,Panama,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1940.35147418512,2478.70169946208,1516.9937584293
+6,Incidence,111,Dominican Republic,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,45111.33822509636,57020.50234757098,35293.60732507675
+6,Incidence,111,Dominican Republic,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1554.22651982876,1964.53442547733,1215.97502187466
+6,Incidence,114,Haiti,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,58778.36166988147,72235.99696528571,46218.01179603633
+6,Incidence,114,Haiti,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1495.59291961146,1838.0172997866098,1175.99962361813
+6,Incidence,117,Saint Vincent and the Grenadines,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,389.4084242041353,488.7581993344071,300.24991094959023
+6,Incidence,117,Saint Vincent and the Grenadines,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1473.83298593095,1849.85201025247,1136.3858490856899
+6,Incidence,143,Iraq,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,315440.3806770776,395470.5088714421,252485.06966868456
+6,Incidence,143,Iraq,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2306.2020795851,2891.30677567741,1845.93231685895
+6,Incidence,149,Palestine,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,39511.39116064717,50072.9087770701,31241.478888101567
+6,Incidence,149,Palestine,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2316.01429821058,2935.09211581983,1831.26206586602
+6,Incidence,146,Lebanon,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,29054.377083109182,35856.40083151223,23304.06819145496
+6,Incidence,146,Lebanon,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2281.56704036765,2815.7128300971003,1830.0097689244299
+6,Incidence,140,Bahrain,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,7561.293585853848,9563.82137190786,5895.673289317381
+6,Incidence,140,Bahrain,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2312.70274009951,2925.1973411023,1803.25490818725
+6,Incidence,128,Guatemala,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,108139.76351325816,135030.0563293438,84880.29791116063
+6,Incidence,128,Guatemala,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2175.02685673679,2715.87424867077,1707.2066885180402
+6,Incidence,116,Saint Lucia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,555.9255543309664,710.8340244183504,434.24557034166656
+6,Incidence,116,Saint Lucia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1553.9233565994,1986.92358105131,1213.80341126037
+6,Incidence,125,Colombia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,273082.5097997628,342890.05998118885,217551.47232401447
+6,Incidence,125,Colombia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2227.15364015784,2796.47658805027,1774.2643198328599
+6,Incidence,131,Nicaragua,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,37561.15711879776,47490.87142594942,29551.56693202041
+6,Incidence,131,Nicaragua,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1981.7128530863301,2505.60093267134,1559.1298168159399
+6,Incidence,122,Ecuador,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,64859.07041116532,79048.49809860227,52177.61088315399
+6,Incidence,122,Ecuador,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1360.41617680399,1658.0388044982699,1094.423115571
+6,Incidence,119,Trinidad and Tobago,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,4231.153099382155,5219.290841755649,3352.776750341744
+6,Incidence,119,Trinidad and Tobago,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1516.7445781535,1870.9630448482499,1201.87235923525
+6,Incidence,113,Guyana,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,3103.6468716285026,3913.435461404569,2430.945593863905
+6,Incidence,113,Guyana,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1452.97175870254,1832.07415022133,1138.0467691459
+6,Incidence,139,Algeria,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,228404.95180206772,283883.0875142128,183067.33037829783
+6,Incidence,139,Algeria,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2307.64319449591,2868.15530821924,1849.5837141399002
+6,Incidence,142,Iran (Islamic Republic of),3,Both,159,10-24 years,630,Low back pain,1,Number,2023,483208.2986923558,597313.0870580652,387883.5155614951
+6,Incidence,142,Iran (Islamic Republic of),3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2568.64122527436,3175.20006168203,2061.91323984263
+6,Incidence,151,Qatar,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,11004.523306648536,13662.191188162617,8816.919206470606
+6,Incidence,151,Qatar,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2338.77280276214,2903.60248114578,1873.84498806834
+6,Incidence,148,Morocco,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,241468.9584882501,300292.54020402377,192339.4640774133
+6,Incidence,148,Morocco,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2597.60147405212,3230.3959480522,2069.09111023558
+6,Incidence,145,Kuwait,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,23723.540033606,29786.049541257045,18651.58082526284
+6,Incidence,145,Kuwait,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2347.82141799181,2947.80310911713,1845.8704257006
+6,Incidence,130,Mexico,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,612768.5299852887,777639.6082918684,483354.2043798317
+6,Incidence,130,Mexico,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1832.746726531,2325.86429748928,1445.6777600073501
+6,Incidence,136,Paraguay,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,34850.10590433372,43046.96021667811,27367.80495585716
+6,Incidence,136,Paraguay,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2080.0674026307397,2569.30578560796,1633.47793336707
+6,Incidence,127,El Salvador,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,33147.04415374668,41476.69732001183,26300.253134995684
+6,Incidence,127,El Salvador,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1981.9667026223199,2480.02303438317,1572.5753929165298
+6,Incidence,133,Venezuela (Bolivarian Republic of),3,Both,159,10-24 years,630,Low back pain,1,Number,2023,106624.16292486638,133840.76138121026,84156.42853848716
+6,Incidence,133,Venezuela (Bolivarian Republic of),3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1840.80284266261,2310.6812495050503,1452.91075336406
+6,Incidence,147,Libya,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,42486.598327776046,53084.46901502231,34084.04468115836
+6,Incidence,147,Libya,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2341.19870782695,2925.18806294738,1878.1809913192299
+6,Incidence,150,Oman,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,22875.27252777843,28214.57526986488,18130.01153369167
+6,Incidence,150,Oman,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2255.03861054683,2781.38573153446,1787.25197562071
+6,Incidence,141,Egypt,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,747254.48645788,917461.9535947974,585795.1093717301
+6,Incidence,141,Egypt,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2351.15786420067,2886.69780696045,1843.14286922286
+6,Incidence,144,Jordan,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,92995.42568068628,117268.13962012,72363.49978041444
+6,Incidence,144,Jordan,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2379.23287070113,3000.23587642016,1851.37726997139
+6,Incidence,154,Tunisia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,61026.73500682412,75662.50700515776,47371.87054167509
+6,Incidence,154,Tunisia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2366.7349080295603,2934.33847539302,1837.17283346557
+6,Incidence,160,Afghanistan,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,282428.07306089066,350563.5470051749,225860.9803434784
+6,Incidence,160,Afghanistan,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2348.33693270598,2914.8707342388498,1877.99207086407
+6,Incidence,157,Yemen,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,270252.27341657726,338953.642961723,214082.69394839936
+6,Incidence,157,Yemen,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2329.85235881608,2922.1287747185,1845.61285339694
+6,Incidence,152,Saudi Arabia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,175930.6981920646,221180.1855152408,139165.18401809584
+6,Incidence,152,Saudi Arabia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2334.37158754557,2934.77344261528,1846.54102374299
+6,Incidence,171,Democratic Republic of the Congo,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,460069.8848538722,573845.8245919041,356600.0003532794
+6,Incidence,171,Democratic Republic of the Congo,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1476.5683418639699,1841.72580209713,1144.48758452767
+6,Incidence,165,Pakistan,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,1169636.175562084,1497528.4631619784,879634.8952677931
+6,Incidence,165,Pakistan,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1542.11687873204,1974.4292863667201,1159.7621956778798
+6,Incidence,168,Angola,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,172718.26053376755,218543.39119935184,134584.7139757181
+6,Incidence,168,Angola,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1459.50022203151,1846.7307799027599,1137.2649268385
+6,Incidence,162,Bhutan,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,3616.743323301338,4484.16526896392,2864.842597793682
+6,Incidence,162,Bhutan,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1838.74408772135,2279.73943396863,1456.47946731732
+6,Incidence,185,Rwanda,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,66184.70337933014,82825.2331061952,52586.94859313979
+6,Incidence,185,Rwanda,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1477.7272657501298,1849.2657518105498,1174.12579933012
+6,Incidence,182,Malawi,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,106166.67676092936,134529.0204791946,82676.34887703217
+6,Incidence,182,Malawi,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1411.7866399793002,1788.94432411889,1099.41620429261
+6,Incidence,179,Ethiopia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,533061.8300308923,672292.9926196358,420332.0996424232
+6,Incidence,179,Ethiopia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1389.55373969151,1752.4932182986602,1095.69661166072
+6,Incidence,153,Syrian Arab Republic,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,144024.26911421938,178045.4137038098,114347.6204613306
+6,Incidence,153,Syrian Arab Republic,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2403.95379735765,2971.811285749,1908.61163967322
+6,Incidence,156,United Arab Emirates,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,24352.540509558465,30008.76125592712,19452.23151482028
+6,Incidence,156,United Arab Emirates,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2216.33768966027,2731.11335408406,1770.35795659067
+6,Incidence,176,Comoros,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,3785.4983849995633,4743.084399720013,2962.708917970001
+6,Incidence,176,Comoros,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1342.31952254883,1681.87491825907,1050.56233440214
+6,Incidence,170,Congo,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,27946.474482603076,34986.46467858442,22162.02967123101
+6,Incidence,170,Congo,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1436.21840448486,1798.01586459581,1138.9456267328299
+6,Incidence,173,Gabon,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,7927.010524842641,9960.835422743992,6361.073622349453
+6,Incidence,173,Gabon,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1410.53745624858,1772.43759362701,1131.8936159047
+6,Incidence,164,Nepal,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,183832.7352833702,231186.22784839105,142835.9768092996
+6,Incidence,164,Nepal,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2087.98867168442,2625.83388128785,1622.34381720466
+6,Incidence,161,Bangladesh,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,940969.857255662,1169115.004416172,737643.5453873047
+6,Incidence,161,Bangladesh,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1860.4074017174298,2311.47702649926,1458.40751548619
+6,Incidence,187,Somalia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,99369.37831733488,125243.06755830096,77991.46736942072
+6,Incidence,187,Somalia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1406.91534292001,1773.2464097684901,1104.2374815757598
+6,Incidence,184,Mozambique,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,166522.17425749332,204178.51419416847,132109.73157513485
+6,Incidence,184,Mozambique,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1474.20822746413,1807.57695987686,1169.55747235793
+6,Incidence,191,Zambia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,94578.37345930266,118294.41885202506,74489.13645889144
+6,Incidence,191,Zambia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1294.0714114247498,1618.5669087805,1019.1998279040699
+6,Incidence,194,Lesotho,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,6864.522368572507,8689.3699891133,5223.109017653464
+6,Incidence,194,Lesotho,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1133.60315393668,1434.95740803158,862.54112636803
+6,Incidence,178,Eritrea,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,27460.854733698237,34418.08067693819,21718.740011002614
+6,Incidence,178,Eritrea,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1263.33719277756,1583.40451689717,999.1710856142901
+6,Incidence,181,Madagascar,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,149711.60983468927,187077.15883436205,117240.72422771242
+6,Incidence,181,Madagascar,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1426.57678783393,1782.6268291531298,1117.16717198334
+6,Incidence,175,Burundi,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,67443.7983689468,83229.3604057244,53309.88818706168
+6,Incidence,175,Burundi,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1425.27746322335,1758.87086038427,1126.58812281486
+6,Incidence,172,Equatorial Guinea,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,8406.003239645406,10378.099517474788,6587.534739863819
+6,Incidence,172,Equatorial Guinea,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1419.68018870261,1752.74525375565,1112.56114183574
+6,Incidence,155,Türkiye,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,474748.3680222128,590073.9155328999,378326.4758963272
+6,Incidence,155,Türkiye,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2447.2832501499097,3041.77561652297,1950.2374519084299
+6,Incidence,169,Central African Republic,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,31401.374262876063,39570.6325528948,24772.43023920506
+6,Incidence,169,Central African Republic,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1489.4277520549501,1876.9114306034899,1175.00415030364
+6,Incidence,163,India,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,5227476.253656283,6534636.731900855,4108456.110147506
+6,Incidence,163,India,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1318.76407465416,1648.52861013359,1036.46273219631
+6,Incidence,180,Kenya,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,268840.47673202923,334412.45606210665,212536.8555298607
+6,Incidence,180,Kenya,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1507.82668457495,1875.59563587331,1192.04052201934
+6,Incidence,193,Botswana,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,7481.870366242058,9414.71418917054,5800.526347684108
+6,Incidence,193,Botswana,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1149.14806360328,1446.0155081914002,890.9087292391799
+6,Incidence,186,Seychelles,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,228.4117207162284,287.4321154306879,178.05285041946627
+6,Incidence,186,Seychelles,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1040.53617160396,1309.40527941579,811.1248877145699
+6,Incidence,190,Uganda,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,224798.58695128936,281066.46231243084,176244.59304076445
+6,Incidence,190,Uganda,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1411.15871153544,1764.37669022617,1106.3641289008
+6,Incidence,183,Mauritius,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,2928.9487314776597,3635.282089765674,2208.929680465918
+6,Incidence,183,Mauritius,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1168.97772390754,1450.88363527353,881.60969237591
+6,Incidence,177,Djibouti,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,5013.06046048646,6219.15974134078,3950.762308359734
+6,Incidence,177,Djibouti,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1264.6823468852601,1568.95405497861,996.68842765909
+6,Incidence,200,Benin,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,59501.13008715648,73761.33813166872,47148.25694566907
+6,Incidence,200,Benin,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1281.18265291904,1588.2344878486301,1015.1996915971099
+6,Incidence,197,Eswatini,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,3730.686354409313,4738.957951964436,2912.0630805902733
+6,Incidence,197,Eswatini,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1025.93439252503,1303.2079048682401,800.8139478273
+6,Incidence,189,United Republic of Tanzania,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,295863.67581212526,370272.6312227661,234413.0069210456
+6,Incidence,189,United Republic of Tanzania,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1386.3618613497,1735.02831268416,1098.4155175777798
+6,Incidence,211,Mali,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,90371.01707741396,114443.59318442544,71831.49715331224
+6,Incidence,211,Mali,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1177.30138147896,1490.9049905018,935.7792306338
+6,Incidence,214,Nigeria,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,1053087.255706489,1320267.166116789,834457.065595282
+6,Incidence,214,Nigeria,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1266.60031476988,1587.95085509034,1003.64293292664
+6,Incidence,208,Guinea,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,59920.031650935365,73951.6805254186,47242.17425307293
+6,Incidence,208,Guinea,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1305.56681792888,1611.29521403644,1029.33548952261
+6,Incidence,205,Côte d'Ivoire,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,149063.55647950966,184251.0364816056,117117.68661579458
+6,Incidence,205,Côte d'Ivoire,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1344.6645655024001,1662.08190496221,1056.48896957267
+6,Incidence,202,Cameroon,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,147211.64637325186,185053.89359958263,116201.21637103186
+6,Incidence,202,Cameroon,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1324.17235923769,1664.5642984834099,1045.23278299723
+6,Incidence,196,South Africa,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,187919.31279264705,238231.11842014053,145957.92208667478
+6,Incidence,196,South Africa,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1148.97094576655,1456.58596434013,892.4117978607701
+6,Incidence,351,Guam,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,440.1499379925779,551.7015852121218,335.80254394332394
+6,Incidence,351,Guam,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1259.56785145035,1578.79286203398,960.9591011538099
+6,Incidence,213,Niger,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,116169.87325631292,144339.12579601887,90687.94148185223
+6,Incidence,213,Niger,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1307.4822357588,1624.52482397793,1020.6852186490801
+6,Incidence,216,Senegal,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,73192.31280311871,92168.76961150242,57507.35287644692
+6,Incidence,216,Senegal,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1159.02567039974,1459.52444864317,910.64888740198
+6,Incidence,305,Bermuda,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,138.86272462536962,176.27032082035498,108.49792601710728
+6,Incidence,305,Bermuda,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1543.31808254017,1959.06550351173,1205.8442003932498
+6,Incidence,210,Liberia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,23756.053390515182,29958.21672073123,18721.20961328973
+6,Incidence,210,Liberia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1290.92422382595,1627.9550745099898,1017.3265142924799
+6,Incidence,207,Ghana,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,125666.29864411248,155362.27418982438,100903.97292956372
+6,Incidence,207,Ghana,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1219.00992981313,1507.07195961977,978.8061420276099
+6,Incidence,204,Chad,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,89701.806672315,111896.53783158131,70100.90659226855
+6,Incidence,204,Chad,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1407.66629156296,1755.96222965184,1100.07464597027
+6,Incidence,218,Togo,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,33675.12454676246,41958.54160380984,26626.643309999126
+6,Incidence,218,Togo,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1256.9808667095501,1566.17339062213,993.88440683841
+6,Incidence,201,Burkina Faso,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,99274.1550190325,124005.9807553946,78208.16021078023
+6,Incidence,201,Burkina Faso,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1295.00241376366,1617.62187115649,1020.20265223671
+6,Incidence,195,Namibia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,10683.495499527662,13363.842214550676,8296.130543270678
+6,Incidence,195,Namibia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1182.5322509344699,1479.2138411818798,918.2801570716
+6,Incidence,198,Zimbabwe,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,65065.74561919394,81358.10229720961,50980.93605263872
+6,Incidence,198,Zimbabwe,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1280.00610710262,1600.51755054334,1002.9226418937101
+6,Incidence,212,Mauritania,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,17782.454165430594,22373.904370129523,14012.030539806892
+6,Incidence,212,Mauritania,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1170.96096355777,1473.3044368379499,922.6814605933199
+6,Incidence,298,American Samoa,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,170.10566674272502,214.15997161195344,131.39399931905035
+6,Incidence,298,American Samoa,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1244.0044942327102,1566.1792594655801,960.90111986289
+6,Incidence,215,Sao Tome and Principe,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,842.1593010053912,1037.6697502070474,664.0448635121168
+6,Incidence,215,Sao Tome and Principe,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1140.30470690867,1405.03073345534,899.1333142760599
+6,Incidence,349,Greenland,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,241.18482223239,297.6004851516699,190.945790858528
+6,Incidence,349,Greenland,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2208.40580630765,2724.97511777779,1748.39274428169
+6,Incidence,209,Guinea-Bissau,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,8883.208379128466,11137.643409935288,7051.922008456191
+6,Incidence,209,Guinea-Bissau,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1244.64419982256,1560.51762811714,988.0589817129901
+6,Incidence,367,Monaco,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,134.71272963085823,163.92902842065493,106.56784827480791
+6,Incidence,367,Monaco,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2520.61714655557,3067.28488827716,1993.99675419747
+6,Incidence,206,Gambia,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,10505.949496364285,13062.236471904933,8307.51276146646
+6,Incidence,206,Gambia,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1220.74469788453,1517.77389764819,965.29610766526
+6,Incidence,203,Cabo Verde,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,1590.6522242232256,2008.9004595257009,1250.1006207225853
+6,Incidence,203,Cabo Verde,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1211.49653858865,1530.04906793692,952.12048984027
+6,Incidence,320,Cook Islands,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,43.08378464056815,53.45118382676149,34.03010691270615
+6,Incidence,320,Cook Islands,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1263.84213123426,1567.96480736744,998.2568431601301
+6,Incidence,217,Sierra Leone,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,33243.53074397588,41195.41497500826,26091.45139790296
+6,Incidence,217,Sierra Leone,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1295.28844949473,1605.12268086746,1016.61751534563
+6,Incidence,413,Tokelau,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,5.496256332478279,6.776355728971936,4.272498551777942
+6,Incidence,413,Tokelau,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1229.26117730737,1515.5608685910101,955.5625287648201
+6,Incidence,385,Puerto Rico,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,8555.61637037764,10946.649644686866,6697.786942070315
+6,Incidence,385,Puerto Rico,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1503.04344809298,1923.0981515233202,1176.66154537468
+6,Incidence,374,Niue,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,4.80402842173139,6.059872223819547,3.7275430895998256
+6,Incidence,374,Niue,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1263.60087436455,1593.9247582128498,980.4535472653
+6,Incidence,422,United States Virgin Islands,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,196.9770356647018,247.2996971952257,154.5907774497755
+6,Incidence,422,United States Virgin Islands,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1501.80025138451,1885.47231489106,1178.63723378899
+6,Incidence,396,San Marino,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,132.80242701308208,165.56951577417715,103.92504380007614
+6,Incidence,396,San Marino,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2510.71026057808,3130.1919056962897,1964.76585306814
+6,Incidence,435,South Sudan,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,49592.00785331776,62482.06960235068,39144.17898213161
+6,Incidence,435,South Sudan,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1384.03948614923,1743.78201749281,1092.45605712127
+6,Incidence,380,Palau,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,44.07607981920111,55.13104993720236,33.957100693688346
+6,Incidence,380,Palau,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1279.53078570575,1600.45711715499,985.77631924417
+6,Incidence,369,Nauru,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,48.52664326704976,60.5774349359484,37.869328545953614
+6,Incidence,369,Nauru,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1281.43818782317,1599.6622313253401,1000.01154992226
+6,Incidence,416,Tuvalu,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,37.09491253933346,46.36917635035508,27.87360120210696
+6,Incidence,416,Tuvalu,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1261.67923012002,1577.11725717056,948.0422326931401
+6,Incidence,393,Saint Kitts and Nevis,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,148.1088612601772,185.89390960229872,115.6137625495958
+6,Incidence,393,Saint Kitts and Nevis,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1514.28261772748,1900.60144718601,1182.04886263613
+6,Incidence,376,Northern Mariana Islands,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,146.29517367045915,184.7923379923439,115.7063882205798
+6,Incidence,376,Northern Mariana Islands,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,1263.8170927010501,1596.3870132926597,999.5662023497101
+6,Incidence,522,Sudan,3,Both,159,10-24 years,630,Low back pain,1,Number,2023,278031.24907248165,341474.8444384861,219610.6026442641
+6,Incidence,522,Sudan,3,Both,159,10-24 years,630,Low back pain,3,Rate,2023,2379.6330296127,2922.63844916168,1879.6183718514399
